@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 2,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Unobtainium"
+      },
+      {
+        "value": "CUSTOM:UnobtainiumBase"
+      },
+      {
+        "value": "CUSTOM:UnobtainiumPillar"
+      },
+      {
+        "value": "CUSTOM:BasisIngot"
+      },
+      {
+        "value": "CUSTOM:TrueUnobtainium"
+      },
+      {
+        "value": "CUSTOM:BasisIngot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:ModifierGem"
+    },
+    "name": "modifier_gem_recipe",
+    "namespace": "mod"
+  }
+}

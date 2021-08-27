@@ -1,0 +1,31 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "crescendo_sword",
+    "customModelName": "Normal",
+    "name": "Crescendo Sword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:FantasysTab"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 21,
+    "efficiency": 24.0,
+    "attackSpeed": 1.0,
+    "enchantability": 140,
+    "damageVsEntity": 198.5,
+    "usageCount": 6280,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:CrescendoIngot"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

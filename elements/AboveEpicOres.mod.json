@@ -1,0 +1,44 @@
+{
+  "_fv": 24,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:SuperatumIngot"
+      },
+      {
+        "value": "CUSTOM:SubnormaliIngot"
+      },
+      {
+        "value": "CUSTOM:AbnormisIngot"
+      },
+      {
+        "value": "CUSTOM:Rerum"
+      },
+      {
+        "value": "CUSTOM:Pretiosa"
+      },
+      {
+        "value": "CUSTOM:CompressedFlint"
+      },
+      {
+        "value": "CUSTOM:DoubleCompressedFlint"
+      },
+      {
+        "value": "CUSTOM:SuperCompressedFlint"
+      },
+      {
+        "value": "CUSTOM:UltraCompressedFlint"
+      },
+      {
+        "value": "CUSTOM:DefinitiveDiamond"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "above_epic_ores",
+    "namespace": "forge"
+  }
+}

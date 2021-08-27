@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "definitive_content_mod:block/smelter"
+    },
+    "facing=east": {
+      "model": "definitive_content_mod:block/smelter",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "definitive_content_mod:block/smelter",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "definitive_content_mod:block/smelter",
+      "y": 270
+    }
+  }
+}

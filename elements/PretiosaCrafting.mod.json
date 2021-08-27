@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 5,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:RerumBlock"
+      },
+      {
+        "value": "CUSTOM:DoubleCompressedFlint"
+      },
+      {
+        "value": "CUSTOM:RerumBlock"
+      },
+      {
+        "value": "Items.HEART_OF_THE_SEA"
+      },
+      {
+        "value": "Items.NETHERITE_CHESTPLATE"
+      },
+      {
+        "value": "Items.HEART_OF_THE_SEA"
+      },
+      {
+        "value": "CUSTOM:RerumBlock"
+      },
+      {
+        "value": "CUSTOM:DoubleCompressedFlint"
+      },
+      {
+        "value": "CUSTOM:RerumBlock"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Pretiosa"
+    },
+    "name": "pretiosa_crafting",
+    "namespace": "mod"
+  }
+}

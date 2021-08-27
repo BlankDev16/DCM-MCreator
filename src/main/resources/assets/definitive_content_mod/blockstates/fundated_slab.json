@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "definitive_content_mod:block/fundated_slab"
+    },
+    "type=top": {
+      "model": "definitive_content_mod:block/fundated_slab_top"
+    },
+    "type=double": {
+      "model": "definitive_content_mod:block/fundated_slab_full"
+    }
+  }
+}

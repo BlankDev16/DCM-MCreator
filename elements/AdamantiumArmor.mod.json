@@ -1,0 +1,62 @@
+{
+  "_fv": 24,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "adamantium_head",
+    "enableBody": true,
+    "textureBody": "adamantium_body",
+    "enableLeggings": true,
+    "textureLeggings": "adamantium_leggings",
+    "enableBoots": true,
+    "textureBoots": "adamantium_boots",
+    "creativeTab": {
+      "value": "CUSTOM:FantasysTab"
+    },
+    "armorTextureFile": "adamantium",
+    "helmetName": "Adamantium Helmet",
+    "bodyName": "Adamantium Chestplate",
+    "leggingsName": "Adamantium Leggings",
+    "bootsName": "Adamantium Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "helmetImmuneToFire": false,
+    "bodyImmuneToFire": false,
+    "leggingsImmuneToFire": false,
+    "bootsImmuneToFire": false,
+    "maxDamage": 129,
+    "damageValueHelmet": 17,
+    "damageValueBody": 43,
+    "damageValueLeggings": 52,
+    "damageValueBoots": 17,
+    "enchantability": 77,
+    "toughness": 0.0,
+    "knockbackResistance": 0.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:AdamantiumIngot"
+      }
+    ]
+  }
+}

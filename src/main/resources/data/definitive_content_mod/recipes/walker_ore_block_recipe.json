@@ -1,0 +1,42 @@
+{
+  "group": "definitive_content_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "definitive_content_mod:walker"
+    },
+    "1": {
+      "item": "definitive_content_mod:walker"
+    },
+    "2": {
+      "item": "definitive_content_mod:walker"
+    },
+    "3": {
+      "item": "definitive_content_mod:walker"
+    },
+    "4": {
+      "item": "definitive_content_mod:walker"
+    },
+    "5": {
+      "item": "definitive_content_mod:walker"
+    },
+    "6": {
+      "item": "definitive_content_mod:walker"
+    },
+    "7": {
+      "item": "definitive_content_mod:walker"
+    },
+    "8": {
+      "item": "definitive_content_mod:walker"
+    }
+  },
+  "result": {
+    "item": "definitive_content_mod:walker_block",
+    "count": 1
+  }
+}

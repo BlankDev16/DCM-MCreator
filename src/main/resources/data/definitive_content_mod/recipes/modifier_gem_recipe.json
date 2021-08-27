@@ -1,0 +1,32 @@
+{
+  "group": "definitive_content_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "definitive_content_mod:unobtainium"
+    },
+    "1": {
+      "item": "definitive_content_mod:unobtainium_base"
+    },
+    "2": {
+      "item": "definitive_content_mod:unobtainium_pillar"
+    },
+    "3": {
+      "item": "definitive_content_mod:basis_ingot"
+    },
+    "4": {
+      "item": "definitive_content_mod:true_unobtainium"
+    },
+    "5": {
+      "item": "definitive_content_mod:basis_ingot"
+    }
+  },
+  "result": {
+    "item": "definitive_content_mod:modifier_gem",
+    "count": 2
+  }
+}

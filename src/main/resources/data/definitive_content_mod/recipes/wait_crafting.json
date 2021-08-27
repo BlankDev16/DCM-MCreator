@@ -1,0 +1,42 @@
+{
+  "group": "definitive_content_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:clock"
+    },
+    "1": {
+      "item": "minecraft:pumpkin_seeds"
+    },
+    "2": {
+      "item": "minecraft:clock"
+    },
+    "3": {
+      "item": "minecraft:melon_seeds"
+    },
+    "4": {
+      "item": "minecraft:compass"
+    },
+    "5": {
+      "item": "minecraft:melon_seeds"
+    },
+    "6": {
+      "item": "minecraft:clock"
+    },
+    "7": {
+      "item": "minecraft:pumpkin_seeds"
+    },
+    "8": {
+      "item": "minecraft:clock"
+    }
+  },
+  "result": {
+    "item": "minecraft:music_disc_wait",
+    "count": 1
+  }
+}

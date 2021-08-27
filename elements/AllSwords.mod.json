@@ -1,0 +1,92 @@
+{
+  "_fv": 24,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:BasisSword"
+      },
+      {
+        "value": "CUSTOM:UnobaseSword"
+      },
+      {
+        "value": "CUSTOM:UnopillarSword"
+      },
+      {
+        "value": "CUSTOM:UnotrueSword"
+      },
+      {
+        "value": "CUSTOM:GreenusSword"
+      },
+      {
+        "value": "CUSTOM:BloonusSword"
+      },
+      {
+        "value": "CUSTOM:PrimusSword"
+      },
+      {
+        "value": "CUSTOM:IntermediumSword"
+      },
+      {
+        "value": "CUSTOM:ProvectusSword"
+      },
+      {
+        "value": "CUSTOM:MaximumSword"
+      },
+      {
+        "value": "CUSTOM:SuperatumSword"
+      },
+      {
+        "value": "CUSTOM:SubnormaliSword"
+      },
+      {
+        "value": "CUSTOM:AbnormisSword"
+      },
+      {
+        "value": "CUSTOM:RerumSword"
+      },
+      {
+        "value": "CUSTOM:PretiosaSword"
+      },
+      {
+        "value": "CUSTOM:BlackSword"
+      },
+      {
+        "value": "CUSTOM:DefinitiveSword"
+      },
+      {
+        "value": "CUSTOM:WalkerSword"
+      },
+      {
+        "value": "CUSTOM:VerdigrisSword"
+      },
+      {
+        "value": "CUSTOM:FundousSword"
+      },
+      {
+        "value": "Items.WOODEN_SWORD"
+      },
+      {
+        "value": "Items.STONE_SWORD"
+      },
+      {
+        "value": "Items.GOLDEN_SWORD"
+      },
+      {
+        "value": "Items.IRON_SWORD"
+      },
+      {
+        "value": "Items.DIAMOND_SWORD"
+      },
+      {
+        "value": "Items.NETHERITE_SWORD"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "all_swords",
+    "namespace": "forge"
+  }
+}

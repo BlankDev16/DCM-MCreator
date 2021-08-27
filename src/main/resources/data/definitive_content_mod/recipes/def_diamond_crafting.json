@@ -1,0 +1,42 @@
+{
+  "group": "definitive_content_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "definitive_content_mod:provectus_block"
+    },
+    "1": {
+      "item": "definitive_content_mod:maximum_block"
+    },
+    "2": {
+      "item": "definitive_content_mod:abnormis_block"
+    },
+    "3": {
+      "item": "definitive_content_mod:primus_block"
+    },
+    "4": {
+      "item": "definitive_content_mod:ultra_compressed_flint"
+    },
+    "5": {
+      "item": "definitive_content_mod:secundarium_block"
+    },
+    "6": {
+      "item": "definitive_content_mod:rerum_block"
+    },
+    "7": {
+      "item": "definitive_content_mod:pretiosa_block"
+    },
+    "8": {
+      "item": "definitive_content_mod:bloonus_block"
+    }
+  },
+  "result": {
+    "item": "definitive_content_mod:definitive_diamond",
+    "count": 1
+  }
+}

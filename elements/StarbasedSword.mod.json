@@ -1,0 +1,31 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "starbased_sword",
+    "customModelName": "Normal",
+    "name": "Starbased Sword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:FantasysTab"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 18,
+    "efficiency": 23.0,
+    "attackSpeed": 1.0,
+    "enchantability": 129,
+    "damageVsEntity": 55.0,
+    "usageCount": 5588,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:StarbasedDust"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

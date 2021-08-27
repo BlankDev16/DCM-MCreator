@@ -1,0 +1,31 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "galemrack_axe",
+    "customModelName": "Normal",
+    "name": "Galemrack Axe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:DCMTools"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 17,
+    "efficiency": 22.0,
+    "attackSpeed": 1.0,
+    "enchantability": 118,
+    "damageVsEntity": 17.0,
+    "usageCount": 4920,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Galemrack"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

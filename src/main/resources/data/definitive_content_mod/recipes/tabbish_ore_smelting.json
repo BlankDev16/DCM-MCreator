@@ -1,0 +1,12 @@
+{
+  "group": "definitive_content_mod",
+  "type": "minecraft:smelting",
+  "experience": 2.17,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "definitive_content_mod:tabbish_ore"
+  },
+  "result": {
+    "item": "definitive_content_mod:tabbish_dust"
+  }
+}

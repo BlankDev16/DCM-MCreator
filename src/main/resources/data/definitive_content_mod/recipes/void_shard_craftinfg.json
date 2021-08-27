@@ -1,0 +1,36 @@
+{
+  "group": "definitive_content_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "definitive_content_mod:black_flos_fantasy"
+    },
+    "1": {
+      "item": "definitive_content_mod:black_flos_fantasy"
+    },
+    "2": {
+      "item": "definitive_content_mod:black_flos_fantasy"
+    },
+    "4": {
+      "item": "definitive_content_mod:ultra_compressed_flint"
+    },
+    "6": {
+      "item": "definitive_content_mod:black_flos_fantasy"
+    },
+    "7": {
+      "item": "definitive_content_mod:black_flos_fantasy"
+    },
+    "8": {
+      "item": "definitive_content_mod:black_flos_fantasy"
+    }
+  },
+  "result": {
+    "item": "definitive_content_mod:void_shard",
+    "count": 9
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "group": "definitive_content_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "definitive_content_mod:compressed_powder_x_2"
+    },
+    "1": {
+      "item": "definitive_content_mod:fluoratomicous_dust"
+    },
+    "2": {
+      "item": "definitive_content_mod:compressed_powder_x_2"
+    },
+    "3": {
+      "item": "definitive_content_mod:fluoratomicous_dust"
+    },
+    "4": {
+      "item": "definitive_content_mod:compressed_powder_x_2"
+    },
+    "5": {
+      "item": "definitive_content_mod:fluoratomicous_dust"
+    },
+    "6": {
+      "item": "definitive_content_mod:compressed_powder_x_2"
+    },
+    "7": {
+      "item": "definitive_content_mod:fluoratomicous_dust"
+    },
+    "8": {
+      "item": "definitive_content_mod:compressed_powder_x_2"
+    }
+  },
+  "result": {
+    "item": "definitive_content_mod:fluoratomic_powder",
+    "count": 1
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "discordium_shovel",
+    "customModelName": "Normal",
+    "name": "Discordium Shovel",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:DCMTools"
+    },
+    "toolType": "Spade",
+    "harvestLevel": 11,
+    "efficiency": 17.0,
+    "attackSpeed": 1.0,
+    "enchantability": 77,
+    "damageVsEntity": 11.0,
+    "usageCount": 2719,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:DiscordiumDust"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

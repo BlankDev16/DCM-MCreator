@@ -1,0 +1,29 @@
+{
+  "group": "definitive_content_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:bookshelf"
+    },
+    "1": {
+      "item": "minecraft:bookshelf"
+    },
+    "2": {
+      "item": "minecraft:bookshelf"
+    },
+    "3": {
+      "item": "minecraft:bookshelf"
+    },
+    "5": {
+      "item": "minecraft:bookshelf"
+    }
+  },
+  "result": {
+    "item": "definitive_content_mod:intellectual_armor_helmet",
+    "count": 1
+  }
+}

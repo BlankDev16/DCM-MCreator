@@ -1,0 +1,26 @@
+{
+  "group": "definitive_content_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "definitive_content_mod:dark_ingot"
+    },
+    "1": {
+      "item": "definitive_content_mod:blood"
+    },
+    "2": {
+      "item": "definitive_content_mod:ultra_compressed_void"
+    },
+    "3": {
+      "item": "definitive_content_mod:uranium_shard"
+    }
+  },
+  "result": {
+    "item": "definitive_content_mod:dark_matter",
+    "count": 2
+  }
+}

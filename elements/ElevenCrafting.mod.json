@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.MAGMA_CREAM"
+      },
+      {
+        "value": "Items.COAL"
+      },
+      {
+        "value": "Items.MAGMA_CREAM"
+      },
+      {
+        "value": "Items.NETHERITE_INGOT"
+      },
+      {
+        "value": "Items.SKULL#1"
+      },
+      {
+        "value": "Items.NETHERITE_INGOT"
+      },
+      {
+        "value": "Items.MAGMA_CREAM"
+      },
+      {
+        "value": "Items.COAL"
+      },
+      {
+        "value": "Items.MAGMA_CREAM"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Items.RECORD_11"
+    },
+    "name": "eleven_crafting",
+    "namespace": "mod"
+  }
+}

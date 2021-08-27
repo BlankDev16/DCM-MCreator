@@ -1,0 +1,31 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "secundarium_hoe",
+    "customModelName": "Normal",
+    "name": "Secundarium Hoe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:DCMSwords"
+    },
+    "toolType": "Hoe",
+    "harvestLevel": 9,
+    "efficiency": 15.0,
+    "attackSpeed": 1.0,
+    "enchantability": 63,
+    "damageVsEntity": 9.0,
+    "usageCount": 2053,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:SecundariumIngot"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

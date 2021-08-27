@@ -1,0 +1,101 @@
+{
+  "_fv": 24,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:BasisPickaxe"
+      },
+      {
+        "value": "CUSTOM:UnobasePickaxe"
+      },
+      {
+        "value": "CUSTOM:UnopillarPickaxe"
+      },
+      {
+        "value": "CUSTOM:UnotruePickaxe"
+      },
+      {
+        "value": "CUSTOM:GreenusPickaxe"
+      },
+      {
+        "value": "CUSTOM:BloonusPickaxe"
+      },
+      {
+        "value": "CUSTOM:PrimusPickaxe"
+      },
+      {
+        "value": "CUSTOM:SecundariumPickaxe"
+      },
+      {
+        "value": "CUSTOM:Pickaze"
+      },
+      {
+        "value": "CUSTOM:BetterPickaze"
+      },
+      {
+        "value": "CUSTOM:IntermediumPickaxe"
+      },
+      {
+        "value": "CUSTOM:ProvectusPickaxe"
+      },
+      {
+        "value": "CUSTOM:MaximumPickaxe"
+      },
+      {
+        "value": "CUSTOM:SuperatumPickaxe"
+      },
+      {
+        "value": "CUSTOM:SubnormaliPickaxe"
+      },
+      {
+        "value": "CUSTOM:AbnormisPickaxe"
+      },
+      {
+        "value": "CUSTOM:RerumPickaxe"
+      },
+      {
+        "value": "CUSTOM:PretiosaPickaxe"
+      },
+      {
+        "value": "CUSTOM:DefinitivePickaze"
+      },
+      {
+        "value": "CUSTOM:BlackPickaxe"
+      },
+      {
+        "value": "CUSTOM:WalkerPickaxe"
+      },
+      {
+        "value": "CUSTOM:VerdigrisPickaxe"
+      },
+      {
+        "value": "CUSTOM:FundousPickaxe"
+      },
+      {
+        "value": "Items.WOODEN_PICKAXE"
+      },
+      {
+        "value": "Items.STONE_PICKAXE"
+      },
+      {
+        "value": "Items.IRON_PICKAXE"
+      },
+      {
+        "value": "Items.GOLDEN_PICKAXE"
+      },
+      {
+        "value": "Items.DIAMOND_PICKAXE"
+      },
+      {
+        "value": "Items.NETHERITE_PICKAXE"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "all_pickaxe",
+    "namespace": "forge"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "maestrarium_hoe",
+    "customModelName": "Normal",
+    "name": "Maestrarium Hoe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:FantasysTab"
+    },
+    "toolType": "Hoe",
+    "harvestLevel": 16,
+    "efficiency": 21.0,
+    "attackSpeed": 1.0,
+    "enchantability": 113,
+    "damageVsEntity": 16.0,
+    "usageCount": 4675,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:MaestrariumIngot"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

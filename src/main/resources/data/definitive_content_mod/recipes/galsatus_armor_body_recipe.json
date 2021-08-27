@@ -1,0 +1,39 @@
+{
+  "group": "definitive_content_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "definitive_content_mod:galsatus"
+    },
+    "2": {
+      "item": "definitive_content_mod:galsatus"
+    },
+    "3": {
+      "item": "definitive_content_mod:galsatus"
+    },
+    "4": {
+      "item": "definitive_content_mod:galsatus"
+    },
+    "5": {
+      "item": "definitive_content_mod:galsatus"
+    },
+    "6": {
+      "item": "definitive_content_mod:galsatus"
+    },
+    "7": {
+      "item": "definitive_content_mod:galsatus"
+    },
+    "8": {
+      "item": "definitive_content_mod:galsatus"
+    }
+  },
+  "result": {
+    "item": "definitive_content_mod:galsatus_armor_chestplate",
+    "count": 1
+  }
+}

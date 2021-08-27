@@ -1,0 +1,31 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "rerum_sword",
+    "customModelName": "Normal",
+    "name": "Rerum Sword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:DCMSwords"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 17,
+    "efficiency": 22.0,
+    "attackSpeed": 1.0,
+    "enchantability": 119,
+    "damageVsEntity": 51.0,
+    "usageCount": 5002,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Rerum"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

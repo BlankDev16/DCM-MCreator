@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 3,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:FloratomicBlock"
+      },
+      {
+        "value": "CUSTOM:StarbasedBlock"
+      },
+      {
+        "value": "CUSTOM:AdamantiumBlock"
+      },
+      {
+        "value": "CUSTOM:AvanzatumBlock"
+      },
+      {
+        "value": "CUSTOM:UnanimousTogetherDisc"
+      },
+      {
+        "value": "CUSTOM:DescentiumBlock"
+      },
+      {
+        "value": "CUSTOM:MaestrariumBlock"
+      },
+      {
+        "value": "CUSTOM:AscentiumBlock"
+      },
+      {
+        "value": "CUSTOM:CrescendoBlock"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:FluoratomicousDust"
+    },
+    "name": "fluoratomicous_recipe",
+    "namespace": "mod"
+  }
+}

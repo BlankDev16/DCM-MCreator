@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:DefinitiveDiamond"
+      },
+      {
+        "value": "CUSTOM:DefinitiveDiamond"
+      },
+      {
+        "value": "CUSTOM:DefinitiveDiamond"
+      },
+      {
+        "value": "CUSTOM:DefinitiveDiamond"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:DefinitiveDiamond"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:DefinitiveArmor.helmet"
+    },
+    "name": "definitive_armor_helmet_recipe",
+    "namespace": "mod"
+  }
+}

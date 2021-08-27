@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:BasisShard"
+      },
+      {
+        "value": "CUSTOM:BasisShard"
+      },
+      {
+        "value": "CUSTOM:BasisShard"
+      },
+      {
+        "value": "CUSTOM:BasisShard"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:BasisShard"
+      },
+      {
+        "value": "CUSTOM:BasisShard"
+      },
+      {
+        "value": "CUSTOM:BasisShard"
+      },
+      {
+        "value": "CUSTOM:BasisShard"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:BasisIngot"
+    },
+    "name": "basis_ingot_recipe",
+    "namespace": "mod"
+  }
+}

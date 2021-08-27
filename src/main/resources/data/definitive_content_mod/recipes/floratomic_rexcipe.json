@@ -1,0 +1,42 @@
+{
+  "group": "definitive_content_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "definitive_content_mod:ultra_compressed_flint"
+    },
+    "1": {
+      "item": "definitive_content_mod:ultra_compressed_flint"
+    },
+    "2": {
+      "item": "definitive_content_mod:ultra_compressed_flint"
+    },
+    "3": {
+      "item": "minecraft:poppy"
+    },
+    "4": {
+      "item": "definitive_content_mod:definitive_diamond"
+    },
+    "5": {
+      "item": "minecraft:poppy"
+    },
+    "6": {
+      "item": "definitive_content_mod:ultra_compressed_flint"
+    },
+    "7": {
+      "item": "definitive_content_mod:ultra_compressed_flint"
+    },
+    "8": {
+      "item": "definitive_content_mod:ultra_compressed_flint"
+    }
+  },
+  "result": {
+    "item": "definitive_content_mod:floratomic",
+    "count": 2
+  }
+}

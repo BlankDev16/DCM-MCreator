@@ -1,0 +1,31 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "walker_pickaxe",
+    "customModelName": "Normal",
+    "name": "Walker Pickaxe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:DCMTools"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 30,
+    "efficiency": 77.5,
+    "attackSpeed": 1.0,
+    "enchantability": 200,
+    "damageVsEntity": 20.0,
+    "usageCount": 125200,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Walker"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

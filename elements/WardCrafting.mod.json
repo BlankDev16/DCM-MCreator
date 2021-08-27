@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.CACTUS"
+      },
+      {
+        "value": "Items.DYE#2"
+      },
+      {
+        "value": "Blocks.CACTUS"
+      },
+      {
+        "value": "Items.DYE#10"
+      },
+      {
+        "value": "Items.EMERALD"
+      },
+      {
+        "value": "Items.DYE#10"
+      },
+      {
+        "value": "Blocks.CACTUS"
+      },
+      {
+        "value": "Items.DYE#2"
+      },
+      {
+        "value": "Blocks.CACTUS"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Items.RECORD_WARD"
+    },
+    "name": "ward_crafting",
+    "namespace": "mod"
+  }
+}

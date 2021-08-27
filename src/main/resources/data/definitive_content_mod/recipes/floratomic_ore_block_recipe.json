@@ -1,0 +1,42 @@
+{
+  "group": "definitive_content_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "definitive_content_mod:floratomic"
+    },
+    "1": {
+      "item": "definitive_content_mod:floratomic"
+    },
+    "2": {
+      "item": "definitive_content_mod:floratomic"
+    },
+    "3": {
+      "item": "definitive_content_mod:floratomic"
+    },
+    "4": {
+      "item": "definitive_content_mod:floratomic"
+    },
+    "5": {
+      "item": "definitive_content_mod:floratomic"
+    },
+    "6": {
+      "item": "definitive_content_mod:floratomic"
+    },
+    "7": {
+      "item": "definitive_content_mod:floratomic"
+    },
+    "8": {
+      "item": "definitive_content_mod:floratomic"
+    }
+  },
+  "result": {
+    "item": "definitive_content_mod:floratomic_block",
+    "count": 1
+  }
+}

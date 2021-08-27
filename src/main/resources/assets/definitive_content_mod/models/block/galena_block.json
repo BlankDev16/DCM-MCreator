@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "definitive_content_mod:blocks/galena_ore_block",
+    "particle": "definitive_content_mod:blocks/galena_ore_block"
+  }
+}

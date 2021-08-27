@@ -1,0 +1,19 @@
+{
+  "group": "definitive_content_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "definitive_content_mod:anti_matter"
+    },
+    "1": {
+      "item": "definitive_content_mod:anti_matter"
+    }
+  },
+  "result": {
+    "item": "definitive_content_mod:anti_matter_ingot",
+    "count": 1
+  }
+}

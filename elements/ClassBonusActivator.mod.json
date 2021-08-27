@@ -1,0 +1,12 @@
+{
+  "_fv": 24,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "F13",
+    "keyBindingName": "Class Bonus Activator",
+    "keyBindingCategoryKey": "gameplay",
+    "onKeyPressed": {
+      "name": "ClassBonus"
+    }
+  }
+}

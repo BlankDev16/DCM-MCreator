@@ -1,0 +1,42 @@
+{
+  "group": "definitive_content_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "definitive_content_mod:compressed_powder"
+    },
+    "1": {
+      "item": "definitive_content_mod:compressed_powder"
+    },
+    "2": {
+      "item": "definitive_content_mod:compressed_powder"
+    },
+    "3": {
+      "item": "definitive_content_mod:compressed_powder"
+    },
+    "4": {
+      "item": "definitive_content_mod:compressed_powder"
+    },
+    "5": {
+      "item": "definitive_content_mod:compressed_powder"
+    },
+    "6": {
+      "item": "definitive_content_mod:compressed_powder"
+    },
+    "7": {
+      "item": "definitive_content_mod:compressed_powder"
+    },
+    "8": {
+      "item": "definitive_content_mod:compressed_powder"
+    }
+  },
+  "result": {
+    "item": "definitive_content_mod:compressed_powder_x_2",
+    "count": 1
+  }
+}

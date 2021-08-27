@@ -1,0 +1,94 @@
+{
+  "fallout_disc": {
+    "category": "record",
+    "subtitle": "subtitles.fallout_disc",
+    "sounds": [
+      {
+        "name": "definitive_content_mod:this_is_just_some_modding",
+        "stream": true
+      }
+    ]
+  },
+  "nether_disc": {
+    "category": "record",
+    "subtitle": "subtitles.nether_disc",
+    "sounds": [
+      {
+        "name": "definitive_content_mod:nether",
+        "stream": true
+      }
+    ]
+  },
+  "unanimous_together": {
+    "category": "record",
+    "subtitle": "subtitles.unanimous_together",
+    "sounds": [
+      {
+        "name": "definitive_content_mod:unanimous_together",
+        "stream": true
+      }
+    ]
+  },
+  "idwiwsfy": {
+    "category": "record",
+    "subtitle": "subtitles.idwiwsfy",
+    "sounds": [
+      {
+        "name": "definitive_content_mod:idwiwsfy",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_repetitive": {
+    "category": "record",
+    "subtitle": "subtitles.music_disc_repetitive",
+    "sounds": [
+      {
+        "name": "definitive_content_mod:a_very_repetitive_song",
+        "stream": true
+      }
+    ]
+  },
+  "gunshot_vlog": {
+    "category": "player",
+    "subtitle": "subtitles.gunshot_vlog",
+    "sounds": [
+      {
+        "name": "definitive_content_mod:vlog_gun",
+        "stream": false
+      }
+    ]
+  },
+  "axolotl": {
+    "category": "neutral",
+    "subtitle": "subtitles.axolotl",
+    "sounds": [
+      {
+        "name": "definitive_content_mod:axolt_1",
+        "stream": false
+      },
+      {
+        "name": "definitive_content_mod:axolt_2",
+        "stream": false
+      },
+      {
+        "name": "definitive_content_mod:axolt_3",
+        "stream": false
+      }
+    ]
+  },
+  "void_dragon": {
+    "category": "hostile",
+    "subtitle": "subtitles.void_dragon",
+    "sounds": [
+      {
+        "name": "definitive_content_mod:voiddragon1",
+        "stream": false
+      },
+      {
+        "name": "definitive_content_mod:voiddragon2",
+        "stream": false
+      }
+    ]
+  }
+}

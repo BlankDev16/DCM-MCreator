@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.COOKED_FISH"
+      },
+      {
+        "value": "Items.FEATHER"
+      },
+      {
+        "value": "Items.COOKED_FISH"
+      },
+      {
+        "value": "Items.RABBIT_FOOT"
+      },
+      {
+        "value": "Items.DYE#11"
+      },
+      {
+        "value": "Items.RABBIT_FOOT"
+      },
+      {
+        "value": "Items.COOKED_FISH"
+      },
+      {
+        "value": "Items.FEATHER"
+      },
+      {
+        "value": "Items.COOKED_FISH"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Items.CAT_SPAWN_EGG"
+    },
+    "name": "cat_egg_crafting",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "infinity_matter_destruction_sword",
+    "customModelName": "Normal",
+    "name": "Anti-Matter Sword",
+    "specialInfo": [
+      "The Ultimate One."
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:DCMSwords"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 23,
+    "efficiency": 17.5,
+    "attackSpeed": 2.7,
+    "enchantability": 1024,
+    "damageVsEntity": 1023.9999999999999,
+    "usageCount": 32678,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [
+      {
+        "value": "CUSTOM:AntiMatterIngot"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

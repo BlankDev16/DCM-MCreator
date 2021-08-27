@@ -1,0 +1,42 @@
+{
+  "group": "definitive_content_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:music_disc_13"
+    },
+    "1": {
+      "item": "minecraft:music_disc_cat"
+    },
+    "2": {
+      "item": "minecraft:music_disc_blocks"
+    },
+    "3": {
+      "item": "minecraft:music_disc_chirp"
+    },
+    "4": {
+      "item": "minecraft:music_disc_far"
+    },
+    "5": {
+      "item": "minecraft:music_disc_mall"
+    },
+    "6": {
+      "item": "minecraft:music_disc_mellohi"
+    },
+    "7": {
+      "item": "minecraft:music_disc_stal"
+    },
+    "8": {
+      "item": "minecraft:music_disc_strad"
+    }
+  },
+  "result": {
+    "item": "definitive_content_mod:repetitive_music",
+    "count": 1
+  }
+}

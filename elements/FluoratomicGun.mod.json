@@ -1,0 +1,51 @@
+{
+  "_fv": 24,
+  "_type": "rangeditem",
+  "definition": {
+    "renderType": 0,
+    "texture": "florgunxd",
+    "customModelName": "Normal",
+    "name": "Vlog Gun (FLUORATOMIC)",
+    "specialInfo": [
+      "Shoots HELL"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:DMCMisc"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": "CUSTOM:FluoratomicIngot"
+    },
+    "shootConstantly": true,
+    "usageCount": 16384,
+    "actionSound": {
+      "value": "CUSTOM:gunshot_vlog"
+    },
+    "hasGlow": true,
+    "animation": "none",
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "bulletPower": 61.0,
+    "bulletDamage": 302.20000000000005,
+    "bulletKnockback": 91,
+    "bulletParticles": true,
+    "bulletIgnitesFire": true,
+    "bulletItemTexture": {
+      "value": "CUSTOM:TripleCompressedVoid"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": "",
+    "onBulletHitsBlock": {
+      "name": "DefinitiveBlogGunBulletHitsBlock"
+    },
+    "onBulletHitsPlayer": {
+      "name": "DefinitiveBlogGunBulletHitsPlayer"
+    },
+    "onBulletHitsEntity": {
+      "name": "DefinitiveBlogGunBulletHitsPlayer"
+    },
+    "onBulletFlyingTick": {
+      "name": "DefinitiveBlogGunWhileBulletFlyingTick"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "group": "definitive_content_mod",
+  "type": "minecraft:smelting",
+  "experience": 4.199999999999999,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "definitive_content_mod:superatum_ore"
+  },
+  "result": {
+    "item": "definitive_content_mod:superatum_ingot"
+  }
+}

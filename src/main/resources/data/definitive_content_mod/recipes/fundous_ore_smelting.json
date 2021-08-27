@@ -1,0 +1,12 @@
+{
+  "group": "definitive_content_mod",
+  "type": "minecraft:smelting",
+  "experience": 4.8999999999999995,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "definitive_content_mod:fundous_ore"
+  },
+  "result": {
+    "item": "definitive_content_mod:fundous"
+  }
+}

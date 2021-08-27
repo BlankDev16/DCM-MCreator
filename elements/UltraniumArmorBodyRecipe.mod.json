@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:UltraniumIngot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:UltraniumIngot"
+      },
+      {
+        "value": "CUSTOM:UltraniumIngot"
+      },
+      {
+        "value": "CUSTOM:UltraniumIngot"
+      },
+      {
+        "value": "CUSTOM:UltraniumIngot"
+      },
+      {
+        "value": "CUSTOM:UltraniumIngot"
+      },
+      {
+        "value": "CUSTOM:UltraniumIngot"
+      },
+      {
+        "value": "CUSTOM:UltraniumIngot"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:UltraniumArmor.body"
+    },
+    "name": "ultranium_armor_body_recipe",
+    "namespace": "mod"
+  }
+}

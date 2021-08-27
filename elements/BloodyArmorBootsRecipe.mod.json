@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:BloodyDust"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:BloodyDust"
+      },
+      {
+        "value": "CUSTOM:BloodyDust"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:BloodyDust"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:BloodyArmor.boots"
+    },
+    "name": "bloody_armor_boots_recipe",
+    "namespace": "mod"
+  }
+}

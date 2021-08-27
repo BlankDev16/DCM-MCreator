@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:SubnormaliIngot"
+      },
+      {
+        "value": "CUSTOM:SubnormaliIngot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:SubnormaliIngot"
+      },
+      {
+        "value": "Items.STICK"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.STICK"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:SubnormaliAxe"
+    },
+    "name": "subnormali_axe_recipe",
+    "namespace": "mod"
+  }
+}

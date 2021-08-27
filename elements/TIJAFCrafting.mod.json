@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:RepetitiveMusic"
+      },
+      {
+        "value": "Items.RECORD_WARD"
+      },
+      {
+        "value": "Items.RECORD_STRAD"
+      },
+      {
+        "value": "Items.RECORD_WAIT"
+      },
+      {
+        "value": "Items.ENDER_EYE"
+      },
+      {
+        "value": "CUSTOM:NetherDisc"
+      },
+      {
+        "value": "CUSTOM:ThisIsJustAFallout"
+      },
+      {
+        "value": "Items.RECORD_13"
+      },
+      {
+        "value": "Items.RECORD_11"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:UnanimousTogetherDisc"
+    },
+    "name": "tijaf_crafting",
+    "namespace": "mod"
+  }
+}

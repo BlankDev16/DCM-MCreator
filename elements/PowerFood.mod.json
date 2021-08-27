@@ -1,0 +1,32 @@
+{
+  "_fv": 24,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "power_food",
+    "customModelName": "Normal",
+    "name": "Power Food",
+    "rarity": "EPIC",
+    "specialInfo": [
+      "A plant that counts as a food??",
+      "what in the world"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:DMCMisc"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 42,
+    "saturation": 2.9,
+    "eatingSpeed": 64,
+    "resultItem": {
+      "value": ""
+    },
+    "forDogs": true,
+    "isAlwaysEdible": true,
+    "animation": "eat",
+    "hasGlow": true,
+    "onEaten": {
+      "name": "PowerFoodFoodEaten"
+    }
+  }
+}

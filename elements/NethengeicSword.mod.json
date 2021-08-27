@@ -1,0 +1,31 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "nethengeic_sword",
+    "customModelName": "Normal",
+    "name": "Nethengeic Sword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:FantasysTab"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 19,
+    "efficiency": 23.0,
+    "attackSpeed": 1.0,
+    "enchantability": 132,
+    "damageVsEntity": 56.0,
+    "usageCount": 5759,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "Items.NETHER_STAR"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

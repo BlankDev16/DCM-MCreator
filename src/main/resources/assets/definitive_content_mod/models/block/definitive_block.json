@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "definitive_content_mod:blocks/block_of_rainbow",
+    "up": "definitive_content_mod:blocks/block_of_rainbow",
+    "north": "definitive_content_mod:blocks/block_of_rainbow",
+    "east": "definitive_content_mod:blocks/block_of_rainbow",
+    "south": "definitive_content_mod:blocks/block_of_rainbow",
+    "west": "definitive_content_mod:blocks/block_of_rainbow",
+    "particle": "definitive_content_mod:blocks/block_of_rainbow"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "idwiwsfy",
+    "name": "RanidMusic - IDWIWSFY",
+    "description": "RanidMusic - IDWIWSFY",
+    "creativeTab": {
+      "value": "CUSTOM:FantasysTab"
+    },
+    "music": {
+      "value": "CUSTOM:idwiwsfy"
+    },
+    "specialInfo": [
+      "lol"
+    ],
+    "hasGlow": true
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Pretiosa"
+      },
+      {
+        "value": "CUSTOM:Pretiosa"
+      },
+      {
+        "value": "CUSTOM:Pretiosa"
+      },
+      {
+        "value": "CUSTOM:Pretiosa"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Pretiosa"
+      },
+      {
+        "value": "CUSTOM:Pretiosa"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Pretiosa"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:PretiosaArmor.legs"
+    },
+    "name": "pretiosa_armor_leggings_recipe",
+    "namespace": "mod"
+  }
+}

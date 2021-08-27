@@ -1,0 +1,62 @@
+{
+  "_fv": 24,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "avanzatum_head",
+    "enableBody": true,
+    "textureBody": "avanzatum_body",
+    "enableLeggings": true,
+    "textureLeggings": "avanzatum_leggings",
+    "enableBoots": true,
+    "textureBoots": "avanzatum_boots",
+    "creativeTab": {
+      "value": "CUSTOM:FantasysTab"
+    },
+    "armorTextureFile": "avanzatum",
+    "helmetName": "Avanzatum Helmet",
+    "bodyName": "Avanzatum Chestplate",
+    "leggingsName": "Avanzatum Leggings",
+    "bootsName": "Avanzatum Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "helmetImmuneToFire": false,
+    "bodyImmuneToFire": false,
+    "leggingsImmuneToFire": false,
+    "bootsImmuneToFire": false,
+    "maxDamage": 93,
+    "damageValueHelmet": 12,
+    "damageValueBody": 31,
+    "damageValueLeggings": 37,
+    "damageValueBoots": 12,
+    "enchantability": 56,
+    "toughness": 0.0,
+    "knockbackResistance": 0.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:AvanzatumIngot"
+      }
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "group": "definitive_content_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "definitive_content_mod:basis_shard"
+    },
+    "1": {
+      "item": "definitive_content_mod:basis_shard"
+    },
+    "2": {
+      "item": "definitive_content_mod:basis_shard"
+    },
+    "3": {
+      "item": "definitive_content_mod:basis_shard"
+    },
+    "5": {
+      "item": "definitive_content_mod:basis_shard"
+    },
+    "6": {
+      "item": "definitive_content_mod:basis_shard"
+    },
+    "7": {
+      "item": "definitive_content_mod:basis_shard"
+    },
+    "8": {
+      "item": "definitive_content_mod:basis_shard"
+    }
+  },
+  "result": {
+    "item": "definitive_content_mod:basis_ingot",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "group": "definitive_content_mod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "definitive_content_mod:rerum_block"
+    }
+  ],
+  "result": {
+    "item": "definitive_content_mod:rerum",
+    "count": 9
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:SperryliteDust"
+      },
+      {
+        "value": "CUSTOM:SperryliteDust"
+      },
+      {
+        "value": "CUSTOM:SperryliteDust"
+      },
+      {
+        "value": "CUSTOM:SperryliteDust"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:SperryliteDust"
+      },
+      {
+        "value": "CUSTOM:SperryliteDust"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:SperryliteDust"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:SperryliteArmor.legs"
+    },
+    "name": "sperrylite_armor_leggings_recipe",
+    "namespace": "mod"
+  }
+}

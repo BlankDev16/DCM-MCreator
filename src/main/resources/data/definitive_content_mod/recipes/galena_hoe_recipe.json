@@ -1,0 +1,27 @@
+{
+  "group": "definitive_content_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    " 3",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "definitive_content_mod:galena_ingot"
+    },
+    "1": {
+      "item": "definitive_content_mod:galena_ingot"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "definitive_content_mod:galena_hoe",
+    "count": 1
+  }
+}

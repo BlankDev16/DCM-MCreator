@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+    "definitive_content_mod:basis_ingot",
+    "definitive_content_mod:pillus_ingot",
+    "definitive_content_mod:secondium",
+    "definitive_content_mod:verum_dust",
+    "definitive_content_mod:unobtainium",
+    "definitive_content_mod:unobtainium_base",
+    "definitive_content_mod:unobtainium_pillar",
+    "definitive_content_mod:true_unobtainium",
+    "definitive_content_mod:greenus_ingot",
+    "definitive_content_mod:bloonus_ingot",
+    "definitive_content_mod:primus_ingot",
+    "definitive_content_mod:secundarium_ingot",
+    "definitive_content_mod:intermedium_ingot",
+    "definitive_content_mod:provectus_ingot",
+    "definitive_content_mod:maximum_ingot"
+  ]
+}

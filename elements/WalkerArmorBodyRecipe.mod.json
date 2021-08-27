@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Walker"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Walker"
+      },
+      {
+        "value": "CUSTOM:Walker"
+      },
+      {
+        "value": "CUSTOM:Walker"
+      },
+      {
+        "value": "CUSTOM:Walker"
+      },
+      {
+        "value": "CUSTOM:Walker"
+      },
+      {
+        "value": "CUSTOM:Walker"
+      },
+      {
+        "value": "CUSTOM:Walker"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:WalkerArmor.body"
+    },
+    "name": "walker_armor_body_recipe",
+    "namespace": "mod"
+  }
+}

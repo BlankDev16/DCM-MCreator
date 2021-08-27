@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "definitive_content_mod:items/bloonus_shovel"
+  }
+}

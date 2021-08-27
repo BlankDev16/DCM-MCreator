@@ -1,0 +1,12 @@
+{
+  "group": "definitive_content_mod",
+  "type": "minecraft:smelting",
+  "experience": 6.3,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "definitive_content_mod:pretiosa_ore"
+  },
+  "result": {
+    "item": "definitive_content_mod:pretiosa"
+  }
+}

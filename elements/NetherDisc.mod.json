@@ -1,0 +1,19 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "nether_disc",
+    "name": "Nether Disc",
+    "description": "C418 - Stranger Things Remix",
+    "creativeTab": {
+      "value": "CUSTOM:DMCMisc"
+    },
+    "music": {
+      "value": "CUSTOM:nether_disc"
+    },
+    "specialInfo": [
+      "Nether?"
+    ],
+    "hasGlow": true
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "_fv": 24,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "tropical_fish",
+    "customModelName": "Normal",
+    "name": "Definitive Fish",
+    "rarity": "EPIC",
+    "specialInfo": [
+      "DEFINITIVE"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:FantasysTab"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 20,
+    "saturation": 7.0,
+    "eatingSpeed": 24,
+    "resultItem": {
+      "value": ""
+    },
+    "forDogs": true,
+    "isAlwaysEdible": false,
+    "animation": "eat",
+    "hasGlow": true,
+    "onEaten": {
+      "name": "DefinitiveFishFoodEaten"
+    }
+  }
+}

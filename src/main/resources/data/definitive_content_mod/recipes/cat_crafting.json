@@ -1,0 +1,42 @@
+{
+  "group": "definitive_content_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:cat_spawn_egg"
+    },
+    "1": {
+      "item": "definitive_content_mod:basis_ingot"
+    },
+    "2": {
+      "item": "minecraft:cat_spawn_egg"
+    },
+    "3": {
+      "item": "definitive_content_mod:basis_ingot"
+    },
+    "4": {
+      "tag": "minecraft:fishes"
+    },
+    "5": {
+      "item": "definitive_content_mod:basis_ingot"
+    },
+    "6": {
+      "item": "minecraft:cat_spawn_egg"
+    },
+    "7": {
+      "item": "definitive_content_mod:basis_ingot"
+    },
+    "8": {
+      "item": "minecraft:cat_spawn_egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:music_disc_cat",
+    "count": 1
+  }
+}

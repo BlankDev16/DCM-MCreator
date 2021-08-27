@@ -1,0 +1,31 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "starbased_pickaxe",
+    "customModelName": "Normal",
+    "name": "Starbased Pickaxe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:FantasysTab"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 17,
+    "efficiency": 23.0,
+    "attackSpeed": 1.0,
+    "enchantability": 129,
+    "damageVsEntity": 18.0,
+    "usageCount": 5588,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:StarbasedDust"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

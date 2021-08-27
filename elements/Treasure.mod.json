@@ -1,0 +1,32 @@
+{
+  "_fv": 24,
+  "_type": "enchantment",
+  "definition": {
+    "name": "Treasure",
+    "type": "DIGGER",
+    "rarity": "VERY_RARE",
+    "minLevel": 1,
+    "maxLevel": 10,
+    "damageModifier": 0,
+    "compatibleEnchantments": [],
+    "compatibleItems": [
+      {
+        "value": "CUSTOM:DefinitivePickaze"
+      },
+      {
+        "value": "CUSTOM:BlackPickaxe"
+      },
+      {
+        "value": "CUSTOM:PretiosaPickaxe"
+      },
+      {
+        "value": "CUSTOM:RerumPickaxe"
+      }
+    ],
+    "isTreasureEnchantment": false,
+    "isCurse": false,
+    "isAllowedOnBooks": true,
+    "canGenerateInLootTables": true,
+    "canVillagerTrade": true
+  }
+}

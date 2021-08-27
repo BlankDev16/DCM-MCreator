@@ -1,0 +1,32 @@
+{
+  "group": "definitive_content_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "definitive_content_mod:super_compressed_void"
+    },
+    "1": {
+      "item": "definitive_content_mod:uranium_shard"
+    },
+    "2": {
+      "item": "definitive_content_mod:super_compressed_void"
+    },
+    "3": {
+      "item": "definitive_content_mod:definitive_diamond"
+    },
+    "4": {
+      "item": "definitive_content_mod:super_compressed_flint"
+    },
+    "5": {
+      "item": "definitive_content_mod:definitive_diamond"
+    }
+  },
+  "result": {
+    "item": "definitive_content_mod:descentium",
+    "count": 2
+  }
+}

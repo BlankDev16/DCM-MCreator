@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:VoidShard"
+      },
+      {
+        "value": "CUSTOM:VoidShard"
+      },
+      {
+        "value": "CUSTOM:VoidShard"
+      },
+      {
+        "value": "CUSTOM:VoidShard"
+      },
+      {
+        "value": "CUSTOM:VoidShard"
+      },
+      {
+        "value": "CUSTOM:VoidShard"
+      },
+      {
+        "value": "CUSTOM:VoidShard"
+      },
+      {
+        "value": "CUSTOM:VoidShard"
+      },
+      {
+        "value": "CUSTOM:VoidShard"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:CompressedVoid"
+    },
+    "name": "comp_void_craft",
+    "namespace": "mod"
+  }
+}

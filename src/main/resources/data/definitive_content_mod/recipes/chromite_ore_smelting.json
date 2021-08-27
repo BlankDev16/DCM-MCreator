@@ -1,0 +1,12 @@
+{
+  "group": "definitive_content_mod",
+  "type": "minecraft:smelting",
+  "experience": 2.31,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "definitive_content_mod:chromite_ore"
+  },
+  "result": {
+    "item": "definitive_content_mod:chromite_ingot"
+  }
+}

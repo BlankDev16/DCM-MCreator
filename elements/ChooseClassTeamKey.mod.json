@@ -1,0 +1,12 @@
+{
+  "_fv": 24,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "F14",
+    "keyBindingName": "Choose Class",
+    "keyBindingCategoryKey": "misc",
+    "onKeyPressed": {
+      "name": "OpenClass"
+    }
+  }
+}

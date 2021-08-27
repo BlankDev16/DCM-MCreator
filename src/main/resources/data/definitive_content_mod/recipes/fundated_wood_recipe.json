@@ -1,0 +1,26 @@
+{
+  "group": "definitive_content_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "definitive_content_mod:fundated_log"
+    },
+    "1": {
+      "item": "definitive_content_mod:fundated_log"
+    },
+    "2": {
+      "item": "definitive_content_mod:fundated_log"
+    },
+    "3": {
+      "item": "definitive_content_mod:fundated_log"
+    }
+  },
+  "result": {
+    "item": "definitive_content_mod:fundated_wood",
+    "count": 3
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "definitive_pickaze",
+    "customModelName": "Normal",
+    "name": "Definitive Pickaze",
+    "specialInfo": [
+      "WHAT"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:DCMTools"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 16,
+    "efficiency": 64.0,
+    "attackSpeed": 1.8,
+    "enchantability": 30,
+    "damageVsEntity": 70.0,
+    "usageCount": 20480,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [
+      {
+        "value": "CUSTOM:DefinitiveDiamond"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onBlockDestroyedWithTool": {
+      "name": "DefinitivePickazeHammerBreak"
+    }
+  }
+}

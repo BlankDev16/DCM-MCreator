@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.RECORD_13"
+      },
+      {
+        "value": "Items.RECORD_CAT"
+      },
+      {
+        "value": "Items.RECORD_BLOCKS"
+      },
+      {
+        "value": "Items.RECORD_CHIRP"
+      },
+      {
+        "value": "Items.RECORD_FAR"
+      },
+      {
+        "value": "Items.RECORD_MALL"
+      },
+      {
+        "value": "Items.RECORD_MELLOHI"
+      },
+      {
+        "value": "Items.RECORD_STAL"
+      },
+      {
+        "value": "Items.RECORD_STRAD"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:RepetitiveMusic"
+    },
+    "name": "repetitive_crafting",
+    "namespace": "mod"
+  }
+}

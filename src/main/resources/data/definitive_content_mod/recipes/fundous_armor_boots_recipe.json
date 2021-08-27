@@ -1,0 +1,26 @@
+{
+  "group": "definitive_content_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "definitive_content_mod:fundous"
+    },
+    "2": {
+      "item": "definitive_content_mod:fundous"
+    },
+    "3": {
+      "item": "definitive_content_mod:fundous"
+    },
+    "5": {
+      "item": "definitive_content_mod:fundous"
+    }
+  },
+  "result": {
+    "item": "definitive_content_mod:fundous_armor_boots",
+    "count": 1
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:DefinitiveDiamond"
+      },
+      {
+        "value": "CUSTOM:UltraCompressedFlint"
+      },
+      {
+        "value": "CUSTOM:DefinitiveDiamond"
+      },
+      {
+        "value": "CUSTOM:PretiosaPickaxe"
+      },
+      {
+        "value": "CUSTOM:DefinitiveStick"
+      },
+      {
+        "value": "CUSTOM:BetterPickaze"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:DefinitiveStick"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:DefinitivePickaze"
+    },
+    "name": "def_pickaze_crafting",
+    "namespace": "mod"
+  }
+}

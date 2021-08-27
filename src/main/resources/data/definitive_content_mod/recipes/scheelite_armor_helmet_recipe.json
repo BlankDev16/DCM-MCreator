@@ -1,0 +1,29 @@
+{
+  "group": "definitive_content_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "definitive_content_mod:scheelite_dust"
+    },
+    "1": {
+      "item": "definitive_content_mod:scheelite_dust"
+    },
+    "2": {
+      "item": "definitive_content_mod:scheelite_dust"
+    },
+    "3": {
+      "item": "definitive_content_mod:scheelite_dust"
+    },
+    "5": {
+      "item": "definitive_content_mod:scheelite_dust"
+    }
+  },
+  "result": {
+    "item": "definitive_content_mod:scheelite_armor_helmet",
+    "count": 1
+  }
+}

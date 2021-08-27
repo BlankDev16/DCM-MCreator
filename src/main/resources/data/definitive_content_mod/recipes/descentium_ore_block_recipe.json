@@ -1,0 +1,42 @@
+{
+  "group": "definitive_content_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "definitive_content_mod:descentium"
+    },
+    "1": {
+      "item": "definitive_content_mod:descentium"
+    },
+    "2": {
+      "item": "definitive_content_mod:descentium"
+    },
+    "3": {
+      "item": "definitive_content_mod:descentium"
+    },
+    "4": {
+      "item": "definitive_content_mod:descentium"
+    },
+    "5": {
+      "item": "definitive_content_mod:descentium"
+    },
+    "6": {
+      "item": "definitive_content_mod:descentium"
+    },
+    "7": {
+      "item": "definitive_content_mod:descentium"
+    },
+    "8": {
+      "item": "definitive_content_mod:descentium"
+    }
+  },
+  "result": {
+    "item": "definitive_content_mod:descentium_block",
+    "count": 1
+  }
+}

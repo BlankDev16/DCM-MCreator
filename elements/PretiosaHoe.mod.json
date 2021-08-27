@@ -1,0 +1,31 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "pretiosa_hoe",
+    "customModelName": "Normal",
+    "name": "Pretiosa Hoe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:DCMTools"
+    },
+    "toolType": "Hoe",
+    "harvestLevel": 18,
+    "efficiency": 22.0,
+    "attackSpeed": 1.0,
+    "enchantability": 126,
+    "damageVsEntity": 18.0,
+    "usageCount": 5419,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Pretiosa"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

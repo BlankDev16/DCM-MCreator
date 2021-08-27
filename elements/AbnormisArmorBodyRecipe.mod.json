@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:AbnormisIngot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:AbnormisIngot"
+      },
+      {
+        "value": "CUSTOM:AbnormisIngot"
+      },
+      {
+        "value": "CUSTOM:AbnormisIngot"
+      },
+      {
+        "value": "CUSTOM:AbnormisIngot"
+      },
+      {
+        "value": "CUSTOM:AbnormisIngot"
+      },
+      {
+        "value": "CUSTOM:AbnormisIngot"
+      },
+      {
+        "value": "CUSTOM:AbnormisIngot"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:AbnormisArmor.body"
+    },
+    "name": "abnormis_armor_body_recipe",
+    "namespace": "mod"
+  }
+}

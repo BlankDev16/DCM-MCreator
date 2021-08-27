@@ -1,0 +1,12 @@
+{
+  "group": "definitive_content_mod",
+  "type": "minecraft:smelting",
+  "experience": 4.829999999999999,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "definitive_content_mod:galsatus_ore"
+  },
+  "result": {
+    "item": "definitive_content_mod:galsatus"
+  }
+}

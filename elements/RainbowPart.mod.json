@@ -1,0 +1,21 @@
+{
+  "_fv": 24,
+  "_type": "particle",
+  "definition": {
+    "texture": "parti.png",
+    "animate": true,
+    "frameDuration": 1,
+    "width": 0.1,
+    "height": 0.1,
+    "scale": 0.7000000000000001,
+    "speedFactor": 1.7,
+    "gravity": -0.1,
+    "maxAge": 7,
+    "maxAgeDiff": 0,
+    "angularVelocity": 0.30000000000000004,
+    "angularAcceleration": 0.06999999999999999,
+    "canCollide": true,
+    "alwaysShow": false,
+    "renderType": "OPAQUE"
+  }
+}

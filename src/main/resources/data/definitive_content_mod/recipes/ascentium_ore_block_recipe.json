@@ -1,0 +1,42 @@
+{
+  "group": "definitive_content_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "definitive_content_mod:ascentium"
+    },
+    "1": {
+      "item": "definitive_content_mod:ascentium"
+    },
+    "2": {
+      "item": "definitive_content_mod:ascentium"
+    },
+    "3": {
+      "item": "definitive_content_mod:ascentium"
+    },
+    "4": {
+      "item": "definitive_content_mod:ascentium"
+    },
+    "5": {
+      "item": "definitive_content_mod:ascentium"
+    },
+    "6": {
+      "item": "definitive_content_mod:ascentium"
+    },
+    "7": {
+      "item": "definitive_content_mod:ascentium"
+    },
+    "8": {
+      "item": "definitive_content_mod:ascentium"
+    }
+  },
+  "result": {
+    "item": "definitive_content_mod:ascentium_block",
+    "count": 1
+  }
+}

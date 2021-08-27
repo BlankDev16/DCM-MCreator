@@ -1,0 +1,13 @@
+{
+  "group": "definitive_content_mod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:fundated_log"
+    }
+  ],
+  "result": {
+    "item": "definitive_content_mod:fundated_planks",
+    "count": 4
+  }
+}

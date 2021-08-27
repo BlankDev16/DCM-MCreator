@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "definitive_content_mod:block/base_pillar_of_the_truth",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "definitive_content_mod:block/base_pillar_of_the_truth"
+    },
+    "axis=z": {
+      "model": "definitive_content_mod:block/base_pillar_of_the_truth",
+      "x": 90
+    }
+  }
+}

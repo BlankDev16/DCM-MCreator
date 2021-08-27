@@ -1,0 +1,42 @@
+{
+  "group": "definitive_content_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "tag": "minecraft:fishes"
+    },
+    "1": {
+      "item": "minecraft:feather"
+    },
+    "2": {
+      "tag": "minecraft:fishes"
+    },
+    "3": {
+      "item": "minecraft:rabbit_foot"
+    },
+    "4": {
+      "item": "minecraft:yellow_dye"
+    },
+    "5": {
+      "item": "minecraft:rabbit_foot"
+    },
+    "6": {
+      "tag": "minecraft:fishes"
+    },
+    "7": {
+      "item": "minecraft:feather"
+    },
+    "8": {
+      "tag": "minecraft:fishes"
+    }
+  },
+  "result": {
+    "item": "minecraft:cat_spawn_egg",
+    "count": 4
+  }
+}

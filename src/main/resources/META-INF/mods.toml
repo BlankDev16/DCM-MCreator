@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="MIT License"
+
+[[mods]]
+modId="definitive_content_mod"
+version="0.5.1"
+displayName="Definitive Content Mod"
+credits="Thanks to everyone, including you!"
+displayURL="https://mcreator.net"
+logoFile="logo.png"
+authors="RanidGames"
+description='''
+Giant mods? Suck my code.
+'''
+
+[[dependencies.definitive_content_mod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

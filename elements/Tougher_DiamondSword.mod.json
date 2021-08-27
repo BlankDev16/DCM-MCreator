@@ -1,0 +1,31 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "tougher_diamond_sword",
+    "customModelName": "Normal",
+    "name": "Tougher Diamond Sword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:DCMSwords"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 5,
+    "efficiency": 11.0,
+    "attackSpeed": 1.0,
+    "enchantability": 36,
+    "damageVsEntity": 16.0,
+    "usageCount": 1894,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "Blocks.DIAMOND_BLOCK"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

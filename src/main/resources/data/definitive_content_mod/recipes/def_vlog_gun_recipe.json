@@ -1,0 +1,33 @@
+{
+  "group": "definitive_content_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "34 ",
+    "6  "
+  ],
+  "key": {
+    "0": {
+      "item": "definitive_content_mod:definitive_diamond"
+    },
+    "1": {
+      "item": "definitive_content_mod:ultra_compressed_flint"
+    },
+    "2": {
+      "item": "definitive_content_mod:definitive_diamond"
+    },
+    "3": {
+      "item": "definitive_content_mod:definitive_diamond"
+    },
+    "4": {
+      "item": "definitive_content_mod:compressed_powder_x_2"
+    },
+    "6": {
+      "item": "definitive_content_mod:definitive_diamond"
+    }
+  },
+  "result": {
+    "item": "definitive_content_mod:definitive_blog_gun",
+    "count": 1
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "group": "definitive_content_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "definitive_content_mod:dark_matter_shard"
+    },
+    "1": {
+      "item": "definitive_content_mod:light_matter_shard"
+    },
+    "2": {
+      "item": "definitive_content_mod:repetitive_music"
+    },
+    "3": {
+      "item": "definitive_content_mod:light_matter_shard"
+    },
+    "4": {
+      "item": "definitive_content_mod:dark_matter_shard"
+    },
+    "5": {
+      "item": "definitive_content_mod:nether_disc"
+    },
+    "6": {
+      "item": "definitive_content_mod:this_is_just_a_fallout"
+    },
+    "7": {
+      "item": "definitive_content_mod:unanimous_together_disc"
+    },
+    "8": {
+      "item": "definitive_content_mod:idwiwsfy"
+    }
+  },
+  "result": {
+    "item": "definitive_content_mod:anti_matter",
+    "count": 1
+  }
+}

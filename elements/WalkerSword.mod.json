@@ -1,0 +1,31 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "walker_sword",
+    "customModelName": "Normal",
+    "name": "Walker Sword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:DCMSwords"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 30,
+    "efficiency": 41.5,
+    "attackSpeed": 1.8,
+    "enchantability": 140,
+    "damageVsEntity": 104.0,
+    "usageCount": 125200,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Walker"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

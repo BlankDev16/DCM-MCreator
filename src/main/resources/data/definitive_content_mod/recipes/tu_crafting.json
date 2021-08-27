@@ -1,0 +1,26 @@
+{
+  "group": "definitive_content_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 "
+  ],
+  "key": {
+    "0": {
+      "item": "definitive_content_mod:unobtainium_base"
+    },
+    "1": {
+      "item": "definitive_content_mod:verum_dust"
+    },
+    "2": {
+      "item": "definitive_content_mod:unobtainium_pillar"
+    },
+    "4": {
+      "item": "minecraft:emerald"
+    }
+  },
+  "result": {
+    "item": "definitive_content_mod:true_unobtainium",
+    "count": 1
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "group": "definitive_content_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "definitive_content_mod:columbite_dust"
+    },
+    "2": {
+      "item": "definitive_content_mod:columbite_dust"
+    },
+    "3": {
+      "item": "definitive_content_mod:columbite_dust"
+    },
+    "4": {
+      "item": "definitive_content_mod:columbite_dust"
+    },
+    "5": {
+      "item": "definitive_content_mod:columbite_dust"
+    },
+    "6": {
+      "item": "definitive_content_mod:columbite_dust"
+    },
+    "7": {
+      "item": "definitive_content_mod:columbite_dust"
+    },
+    "8": {
+      "item": "definitive_content_mod:columbite_dust"
+    }
+  },
+  "result": {
+    "item": "definitive_content_mod:columbite_armor_chestplate",
+    "count": 1
+  }
+}

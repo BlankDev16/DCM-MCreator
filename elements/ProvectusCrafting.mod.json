@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 5,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:IntermediumIngot"
+      },
+      {
+        "value": "Items.SKULL#1"
+      },
+      {
+        "value": "CUSTOM:IntermediumIngot"
+      },
+      {
+        "value": "CUSTOM:BloonusIngot"
+      },
+      {
+        "value": "Blocks.NETHERITE_BLOCK"
+      },
+      {
+        "value": "CUSTOM:BloonusIngot"
+      },
+      {
+        "value": "CUSTOM:IntermediumIngot"
+      },
+      {
+        "value": "Items.SKULL#1"
+      },
+      {
+        "value": "CUSTOM:IntermediumIngot"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:ProvectusIngot"
+    },
+    "name": "provectus_crafting",
+    "namespace": "mod"
+  }
+}

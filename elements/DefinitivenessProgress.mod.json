@@ -1,0 +1,60 @@
+{
+  "_fv": 24,
+  "_type": "overlay",
+  "definition": {
+    "priority": "HIGH",
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "Definitiveness: <VAR:integer:Definitiveness>",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "Definitiveness: <VAR:integer:Definitiveness>",
+          "x": 4,
+          "y": 4
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Useless Amount: <VAR:UselessDamage>",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "Useless Amount: <VAR:UselessDamage>",
+          "x": 4,
+          "y": 20
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Debug Mode: <VAR:DebugMode>",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "Debug Mode: <VAR:DebugMode>",
+          "x": 3,
+          "y": 38
+        }
+      }
+    ],
+    "baseTexture": "",
+    "overlayTarget": "Ingame",
+    "displayCondition": {
+      "name": "DefinitivenessProgressDisplayOverlayIngame"
+    },
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

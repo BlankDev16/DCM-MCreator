@@ -1,0 +1,39 @@
+{
+  "group": "definitive_content_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "definitive_content_mod:saharad"
+    },
+    "2": {
+      "item": "definitive_content_mod:saharad"
+    },
+    "3": {
+      "item": "definitive_content_mod:saharad"
+    },
+    "4": {
+      "item": "definitive_content_mod:saharad"
+    },
+    "5": {
+      "item": "definitive_content_mod:saharad"
+    },
+    "6": {
+      "item": "definitive_content_mod:saharad"
+    },
+    "7": {
+      "item": "definitive_content_mod:saharad"
+    },
+    "8": {
+      "item": "definitive_content_mod:saharad"
+    }
+  },
+  "result": {
+    "item": "definitive_content_mod:saharad_armor_chestplate",
+    "count": 1
+  }
+}

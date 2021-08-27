@@ -1,0 +1,59 @@
+{
+  "_fv": 24,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:BasisIngot"
+      },
+      {
+        "value": "CUSTOM:PillusIngot"
+      },
+      {
+        "value": "CUSTOM:Secondium"
+      },
+      {
+        "value": "CUSTOM:VerumDust"
+      },
+      {
+        "value": "CUSTOM:Unobtainium"
+      },
+      {
+        "value": "CUSTOM:UnobtainiumBase"
+      },
+      {
+        "value": "CUSTOM:UnobtainiumPillar"
+      },
+      {
+        "value": "CUSTOM:TrueUnobtainium"
+      },
+      {
+        "value": "CUSTOM:GreenusIngot"
+      },
+      {
+        "value": "CUSTOM:BloonusIngot"
+      },
+      {
+        "value": "CUSTOM:PrimusIngot"
+      },
+      {
+        "value": "CUSTOM:SecundariumIngot"
+      },
+      {
+        "value": "CUSTOM:IntermediumIngot"
+      },
+      {
+        "value": "CUSTOM:ProvectusIngot"
+      },
+      {
+        "value": "CUSTOM:MaximumIngot"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "below_epic_ores",
+    "namespace": "forge"
+  }
+}

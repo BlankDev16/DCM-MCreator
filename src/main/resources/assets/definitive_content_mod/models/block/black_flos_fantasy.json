@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "definitive_content_mod:blocks/black_flos_fantasy",
+    "particle": "definitive_content_mod:blocks/black_flos_fantasy"
+  }
+}

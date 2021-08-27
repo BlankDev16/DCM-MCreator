@@ -1,0 +1,22 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "together_we_stay",
+    "name": "Unanimous Together",
+    "description": "TOMBOY - Purgatori",
+    "creativeTab": {
+      "value": "CUSTOM:DMCMisc"
+    },
+    "music": {
+      "value": "CUSTOM:unanimous_together"
+    },
+    "specialInfo": [
+      "\"Oh",
+      "is this the disc",
+      "we wrote when we were",
+      "4 years old?\""
+    ],
+    "hasGlow": true
+  }
+}

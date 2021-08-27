@@ -1,0 +1,36 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "definitive_sword",
+    "customModelName": "Normal",
+    "name": "Definitive Sword",
+    "specialInfo": [
+      "The definitive Killer."
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:DCMSwords"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 30,
+    "efficiency": 30.0,
+    "attackSpeed": 2.2,
+    "enchantability": 200,
+    "damageVsEntity": 140.0,
+    "usageCount": 100000,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [
+      {
+        "value": "CUSTOM:DefinitiveDiamond"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onEntityHitWith": {
+      "name": "DefinitiveSwordLivingEntityIsHitWithTool"
+    }
+  }
+}

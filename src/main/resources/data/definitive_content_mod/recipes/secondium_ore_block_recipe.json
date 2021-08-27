@@ -1,0 +1,42 @@
+{
+  "group": "definitive_content_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "definitive_content_mod:secondium"
+    },
+    "1": {
+      "item": "definitive_content_mod:secondium"
+    },
+    "2": {
+      "item": "definitive_content_mod:secondium"
+    },
+    "3": {
+      "item": "definitive_content_mod:secondium"
+    },
+    "4": {
+      "item": "definitive_content_mod:secondium"
+    },
+    "5": {
+      "item": "definitive_content_mod:secondium"
+    },
+    "6": {
+      "item": "definitive_content_mod:secondium"
+    },
+    "7": {
+      "item": "definitive_content_mod:secondium"
+    },
+    "8": {
+      "item": "definitive_content_mod:secondium"
+    }
+  },
+  "result": {
+    "item": "definitive_content_mod:secondium_block",
+    "count": 1
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "definitive_content_mod:block/fundated_pressure_plate"
+    },
+    "powered=true": {
+      "model": "definitive_content_mod:block/fundated_pressure_plate_down"
+    }
+  }
+}

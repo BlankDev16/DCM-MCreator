@@ -1,0 +1,12 @@
+{
+  "group": "definitive_content_mod",
+  "type": "minecraft:smelting",
+  "experience": 0.8400000000000001,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "definitive_content_mod:pillus_ore"
+  },
+  "result": {
+    "item": "definitive_content_mod:pillus_ingot"
+  }
+}

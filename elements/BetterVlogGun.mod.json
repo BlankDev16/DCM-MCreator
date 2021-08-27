@@ -1,0 +1,45 @@
+{
+  "_fv": 24,
+  "_type": "rangeditem",
+  "definition": {
+    "renderType": 0,
+    "texture": "image",
+    "customModelName": "Normal",
+    "name": "Vlog Gun (Lv. 1)",
+    "specialInfo": [
+      "Shoots vlog bullets."
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:FantasysTab"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": "CUSTOM:BasisShard"
+    },
+    "shootConstantly": true,
+    "usageCount": 4096,
+    "actionSound": {
+      "value": "CUSTOM:gunshot_vlog"
+    },
+    "hasGlow": true,
+    "animation": "none",
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "bulletPower": 15.0,
+    "bulletDamage": 34.5,
+    "bulletKnockback": 31,
+    "bulletParticles": false,
+    "bulletIgnitesFire": true,
+    "bulletItemTexture": {
+      "value": "CUSTOM:BasisShard"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": "",
+    "onBulletHitsPlayer": {
+      "name": "BetterVlogGunBulletHitsPlayer"
+    },
+    "onBulletHitsEntity": {
+      "name": "BetterVlogGunBulletHitsLivingEntity"
+    }
+  }
+}

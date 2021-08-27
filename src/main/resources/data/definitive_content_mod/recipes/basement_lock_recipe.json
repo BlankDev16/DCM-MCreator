@@ -1,0 +1,36 @@
+{
+  "group": "definitive_content_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "definitive_content_mod:anti_matter"
+    },
+    "1": {
+      "item": "definitive_content_mod:dark_ingot"
+    },
+    "2": {
+      "item": "definitive_content_mod:anti_matter"
+    },
+    "4": {
+      "item": "definitive_content_mod:unanimous_together_disc"
+    },
+    "6": {
+      "item": "definitive_content_mod:this_is_just_a_fallout"
+    },
+    "7": {
+      "item": "definitive_content_mod:repetitive_music"
+    },
+    "8": {
+      "item": "definitive_content_mod:this_is_just_a_fallout"
+    }
+  },
+  "result": {
+    "item": "definitive_content_mod:basement_lock",
+    "count": 1
+  }
+}

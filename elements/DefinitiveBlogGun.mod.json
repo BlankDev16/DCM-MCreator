@@ -1,0 +1,51 @@
+{
+  "_fv": 24,
+  "_type": "rangeditem",
+  "definition": {
+    "renderType": 0,
+    "texture": "defgunxd",
+    "customModelName": "Normal",
+    "name": "Vlog Gun (DEFINITIVE)",
+    "specialInfo": [
+      "Shoots vlog bullets."
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:FantasysTab"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": "CUSTOM:DefinitiveDiamond"
+    },
+    "shootConstantly": true,
+    "usageCount": 8192,
+    "actionSound": {
+      "value": "CUSTOM:gunshot_vlog"
+    },
+    "hasGlow": true,
+    "animation": "none",
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "bulletPower": 30.0,
+    "bulletDamage": 114.5,
+    "bulletKnockback": 62,
+    "bulletParticles": true,
+    "bulletIgnitesFire": true,
+    "bulletItemTexture": {
+      "value": "Blocks.POLISHED_BLACKSTONE_BUTTON"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": "",
+    "onBulletHitsBlock": {
+      "name": "DefinitiveBlogGunBulletHitsBlock"
+    },
+    "onBulletHitsPlayer": {
+      "name": "DefinitiveBlogGunBulletHitsPlayer"
+    },
+    "onBulletHitsEntity": {
+      "name": "DefinitiveBlogGunBulletHitsPlayer"
+    },
+    "onBulletFlyingTick": {
+      "name": "DefinitiveBlogGunWhileBulletFlyingTick"
+    }
+  }
+}

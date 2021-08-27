@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:MercuryIngot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:MercuryIngot"
+      },
+      {
+        "value": "CUSTOM:MercuryIngot"
+      },
+      {
+        "value": "CUSTOM:MercuryIngot"
+      },
+      {
+        "value": "CUSTOM:MercuryIngot"
+      },
+      {
+        "value": "CUSTOM:MercuryIngot"
+      },
+      {
+        "value": "CUSTOM:MercuryIngot"
+      },
+      {
+        "value": "CUSTOM:MercuryIngot"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:MercuryArmor.body"
+    },
+    "name": "mercury_armor_body_recipe",
+    "namespace": "mod"
+  }
+}

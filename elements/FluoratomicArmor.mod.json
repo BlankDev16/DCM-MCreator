@@ -1,0 +1,62 @@
+{
+  "_fv": 24,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "fluoratomic_head",
+    "enableBody": true,
+    "textureBody": "fluoratomic_body",
+    "enableLeggings": true,
+    "textureLeggings": "fluoratomic_leggings",
+    "enableBoots": true,
+    "textureBoots": "fluoratomic_boots",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "armorTextureFile": "fluoratomic",
+    "helmetName": "Fluoratomic Helmet",
+    "bodyName": "Fluoratomic Chestplate",
+    "leggingsName": "Fluoratomic Leggings",
+    "bootsName": "Fluoratomic Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "helmetImmuneToFire": false,
+    "bodyImmuneToFire": false,
+    "leggingsImmuneToFire": false,
+    "bootsImmuneToFire": false,
+    "maxDamage": 750,
+    "damageValueHelmet": 120,
+    "damageValueBody": 150,
+    "damageValueLeggings": 160,
+    "damageValueBoots": 120,
+    "enchantability": 100,
+    "toughness": 10.0,
+    "knockbackResistance": 1.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:FluoratomicIngot"
+      }
+    ]
+  }
+}

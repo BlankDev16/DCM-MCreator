@@ -1,0 +1,42 @@
+{
+  "group": "definitive_content_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "definitive_content_mod:fundous"
+    },
+    "1": {
+      "item": "definitive_content_mod:fundous"
+    },
+    "2": {
+      "item": "definitive_content_mod:fundous"
+    },
+    "3": {
+      "item": "definitive_content_mod:fundous"
+    },
+    "4": {
+      "item": "definitive_content_mod:fundous"
+    },
+    "5": {
+      "item": "definitive_content_mod:fundous"
+    },
+    "6": {
+      "item": "definitive_content_mod:fundous"
+    },
+    "7": {
+      "item": "definitive_content_mod:fundous"
+    },
+    "8": {
+      "item": "definitive_content_mod:fundous"
+    }
+  },
+  "result": {
+    "item": "definitive_content_mod:fundous_block",
+    "count": 1
+  }
+}

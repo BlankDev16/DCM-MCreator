@@ -1,0 +1,12 @@
+{
+  "group": "definitive_content_mod",
+  "type": "minecraft:smelting",
+  "experience": 0.9099999999999999,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "definitive_content_mod:secondium_ore"
+  },
+  "result": {
+    "item": "definitive_content_mod:secondium"
+  }
+}

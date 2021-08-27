@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:AntiMatter"
+      },
+      {
+        "value": "CUSTOM:DarkIngot"
+      },
+      {
+        "value": "CUSTOM:AntiMatter"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:UnanimousTogetherDisc"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:ThisIsJustAFallout"
+      },
+      {
+        "value": "CUSTOM:RepetitiveMusic"
+      },
+      {
+        "value": "CUSTOM:ThisIsJustAFallout"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:BasementLock"
+    },
+    "name": "basement_lock_recipe",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "group": "definitive_content_mod",
+  "type": "minecraft:smelting",
+  "experience": 3.6399999999999992,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "definitive_content_mod:mercury_ore"
+  },
+  "result": {
+    "item": "definitive_content_mod:mercury_ingot"
+  }
+}

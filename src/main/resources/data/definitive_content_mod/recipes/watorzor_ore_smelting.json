@@ -1,0 +1,12 @@
+{
+  "group": "definitive_content_mod",
+  "type": "minecraft:smelting",
+  "experience": 3.4299999999999993,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "definitive_content_mod:watorzor_ore"
+  },
+  "result": {
+    "item": "definitive_content_mod:watorzor_dust"
+  }
+}

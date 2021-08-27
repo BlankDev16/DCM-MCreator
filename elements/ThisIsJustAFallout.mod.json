@@ -1,0 +1,20 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "thisisjustafallout",
+    "name": "RanidMusic - This Is Just A Fallout",
+    "description": "a friend made a song",
+    "creativeTab": {
+      "value": "CUSTOM:DMCMisc"
+    },
+    "music": {
+      "value": "CUSTOM:fallout_disc"
+    },
+    "specialInfo": [
+      "For those who dares to listen",
+      "Lower your volume."
+    ],
+    "hasGlow": true
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:DarkMatterShard"
+      },
+      {
+        "value": "CUSTOM:LightMatterShard"
+      },
+      {
+        "value": "CUSTOM:RepetitiveMusic"
+      },
+      {
+        "value": "CUSTOM:LightMatterShard"
+      },
+      {
+        "value": "CUSTOM:DarkMatterShard"
+      },
+      {
+        "value": "CUSTOM:NetherDisc"
+      },
+      {
+        "value": "CUSTOM:ThisIsJustAFallout"
+      },
+      {
+        "value": "CUSTOM:UnanimousTogetherDisc"
+      },
+      {
+        "value": "CUSTOM:IDWIWSFY"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:AntiMatter"
+    },
+    "name": "anti_matter_recipe",
+    "namespace": "mod"
+  }
+}

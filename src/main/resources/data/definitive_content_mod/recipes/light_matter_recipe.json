@@ -1,0 +1,26 @@
+{
+  "group": "definitive_content_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "definitive_content_mod:light_ingot"
+    },
+    "1": {
+      "item": "definitive_content_mod:unobtainium"
+    },
+    "2": {
+      "item": "definitive_content_mod:definitive_diamond"
+    },
+    "3": {
+      "item": "definitive_content_mod:fluoratomic_ingot"
+    }
+  },
+  "result": {
+    "item": "definitive_content_mod:light_matter",
+    "count": 2
+  }
+}

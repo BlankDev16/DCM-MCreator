@@ -1,0 +1,36 @@
+{
+  "group": "definitive_content_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "definitive_content_mod:galsatus"
+    },
+    "1": {
+      "item": "definitive_content_mod:galsatus"
+    },
+    "2": {
+      "item": "definitive_content_mod:galsatus"
+    },
+    "3": {
+      "item": "definitive_content_mod:galsatus"
+    },
+    "5": {
+      "item": "definitive_content_mod:galsatus"
+    },
+    "6": {
+      "item": "definitive_content_mod:galsatus"
+    },
+    "8": {
+      "item": "definitive_content_mod:galsatus"
+    }
+  },
+  "result": {
+    "item": "definitive_content_mod:galsatus_armor_leggings",
+    "count": 1
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "group": "definitive_content_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "definitive_content_mod:definitive_diamond"
+    },
+    "2": {
+      "item": "definitive_content_mod:definitive_diamond"
+    },
+    "3": {
+      "item": "definitive_content_mod:definitive_diamond"
+    },
+    "5": {
+      "item": "definitive_content_mod:definitive_diamond"
+    }
+  },
+  "result": {
+    "item": "definitive_content_mod:definitive_armor_boots",
+    "count": 1
+  }
+}

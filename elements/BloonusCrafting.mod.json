@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 5,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Blood"
+      },
+      {
+        "value": "Items.IRON_INGOT"
+      },
+      {
+        "value": "CUSTOM:Blood"
+      },
+      {
+        "value": "CUSTOM:GreenusIngot"
+      },
+      {
+        "value": "Items.REDSTONE"
+      },
+      {
+        "value": "CUSTOM:GreenusIngot"
+      },
+      {
+        "value": "CUSTOM:Blood"
+      },
+      {
+        "value": "Items.IRON_INGOT"
+      },
+      {
+        "value": "CUSTOM:Blood"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:BloonusIngot"
+    },
+    "name": "bloonus_crafting",
+    "namespace": "mod"
+  }
+}

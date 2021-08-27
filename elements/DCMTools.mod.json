@@ -1,0 +1,11 @@
+{
+  "_fv": 24,
+  "_type": "tab",
+  "definition": {
+    "name": "DCM Tools",
+    "icon": {
+      "value": "CUSTOM:NetherDisc"
+    },
+    "showSearch": true
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "group": "definitive_content_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "definitive_content_mod:barite"
+    },
+    "1": {
+      "item": "definitive_content_mod:barite"
+    },
+    "2": {
+      "item": "definitive_content_mod:barite"
+    },
+    "3": {
+      "item": "definitive_content_mod:barite"
+    },
+    "5": {
+      "item": "definitive_content_mod:barite"
+    },
+    "6": {
+      "item": "definitive_content_mod:barite"
+    },
+    "8": {
+      "item": "definitive_content_mod:barite"
+    }
+  },
+  "result": {
+    "item": "definitive_content_mod:barite_armor_leggings",
+    "count": 1
+  }
+}

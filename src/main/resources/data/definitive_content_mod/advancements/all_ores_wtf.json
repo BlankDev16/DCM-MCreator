@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "definitive_content_mod:antimatter_sword"
+    },
+    "title": {
+      "translate": "advancements.all_ores_wtf.title"
+    },
+    "description": {
+      "translate": "advancements.all_ores_wtf.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "all_ores_wtf": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 0
+  },
+  "parent": "definitive_content_mod:the_definitive_one"
+}

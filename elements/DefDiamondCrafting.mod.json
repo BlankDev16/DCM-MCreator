@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:ProvectusBlock"
+      },
+      {
+        "value": "CUSTOM:MaximumBlock"
+      },
+      {
+        "value": "CUSTOM:AbnormisBlock"
+      },
+      {
+        "value": "CUSTOM:PrimusBlock"
+      },
+      {
+        "value": "CUSTOM:UltraCompressedFlint"
+      },
+      {
+        "value": "CUSTOM:SecundariumBlock"
+      },
+      {
+        "value": "CUSTOM:RerumBlock"
+      },
+      {
+        "value": "CUSTOM:PretiosaBlock"
+      },
+      {
+        "value": "CUSTOM:BloonusBlock"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:DefinitiveDiamond"
+    },
+    "name": "def_diamond_crafting",
+    "namespace": "mod"
+  }
+}

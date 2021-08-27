@@ -1,0 +1,62 @@
+{
+  "_fv": 24,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "cobaltite_head",
+    "enableBody": true,
+    "textureBody": "cobaltite_body",
+    "enableLeggings": true,
+    "textureLeggings": "cobaltite_leggings",
+    "enableBoots": true,
+    "textureBoots": "cobaltite_boots",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "armorTextureFile": "cobaltite",
+    "helmetName": "Cobaltite Helmet",
+    "bodyName": "Cobaltite Chestplate",
+    "leggingsName": "Cobaltite Leggings",
+    "bootsName": "Cobaltite Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "helmetImmuneToFire": false,
+    "bodyImmuneToFire": false,
+    "leggingsImmuneToFire": false,
+    "bootsImmuneToFire": false,
+    "maxDamage": 51,
+    "damageValueHelmet": 7,
+    "damageValueBody": 17,
+    "damageValueLeggings": 20,
+    "damageValueBoots": 7,
+    "enchantability": 31,
+    "toughness": 0.0,
+    "knockbackResistance": 0.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:CobaltiteIngot"
+      }
+    ]
+  }
+}

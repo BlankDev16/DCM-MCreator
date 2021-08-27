@@ -1,0 +1,42 @@
+{
+  "group": "definitive_content_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "definitive_content_mod:blood_flow_bucket"
+    },
+    "1": {
+      "item": "minecraft:honeycomb"
+    },
+    "2": {
+      "item": "definitive_content_mod:blood_flow_bucket"
+    },
+    "3": {
+      "item": "definitive_content_mod:secundarium_ingot"
+    },
+    "4": {
+      "item": "minecraft:lava_bucket"
+    },
+    "5": {
+      "item": "definitive_content_mod:secundarium_ingot"
+    },
+    "6": {
+      "item": "minecraft:blaze_powder"
+    },
+    "7": {
+      "item": "minecraft:blaze_powder"
+    },
+    "8": {
+      "item": "minecraft:blaze_powder"
+    }
+  },
+  "result": {
+    "item": "definitive_content_mod:intermedium_ingot",
+    "count": 5
+  }
+}

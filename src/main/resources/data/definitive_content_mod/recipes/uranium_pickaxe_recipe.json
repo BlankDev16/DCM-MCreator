@@ -1,0 +1,30 @@
+{
+  "group": "definitive_content_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "definitive_content_mod:uranium_shard"
+    },
+    "1": {
+      "item": "definitive_content_mod:uranium_shard"
+    },
+    "2": {
+      "item": "definitive_content_mod:uranium_shard"
+    },
+    "4": {
+      "item": "definitive_content_mod:definitive_stick"
+    },
+    "7": {
+      "item": "definitive_content_mod:definitive_stick"
+    }
+  },
+  "result": {
+    "item": "definitive_content_mod:uranium_pickaxe",
+    "count": 1
+  }
+}

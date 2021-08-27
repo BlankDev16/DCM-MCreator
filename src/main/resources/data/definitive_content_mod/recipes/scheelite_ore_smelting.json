@@ -1,0 +1,12 @@
+{
+  "group": "definitive_content_mod",
+  "type": "minecraft:smelting",
+  "experience": 2.38,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "definitive_content_mod:scheelite_ore"
+  },
+  "result": {
+    "item": "definitive_content_mod:scheelite_dust"
+  }
+}

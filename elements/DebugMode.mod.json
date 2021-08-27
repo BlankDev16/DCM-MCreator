@@ -1,0 +1,12 @@
+{
+  "_fv": 24,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "NUMPAD0",
+    "keyBindingName": "Debug Mode",
+    "keyBindingCategoryKey": "ui",
+    "onKeyPressed": {
+      "name": "DebugModeOnKeyPressed"
+    }
+  }
+}

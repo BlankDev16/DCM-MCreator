@@ -1,0 +1,31 @@
+{
+  "replace": false,
+  "values": [
+    "definitive_content_mod:basis_sword",
+    "definitive_content_mod:unobase_sword",
+    "definitive_content_mod:unopillar_sword",
+    "definitive_content_mod:unotrue_sword",
+    "definitive_content_mod:greenus_sword",
+    "definitive_content_mod:bloonus_sword",
+    "definitive_content_mod:primus_sword",
+    "definitive_content_mod:intermedium_sword",
+    "definitive_content_mod:provectus_sword",
+    "definitive_content_mod:maximum_sword",
+    "definitive_content_mod:superatum_sword",
+    "definitive_content_mod:subnormali_sword",
+    "definitive_content_mod:abnormis_sword",
+    "definitive_content_mod:rerum_sword",
+    "definitive_content_mod:pretiosa_sword",
+    "definitive_content_mod:black_sword",
+    "definitive_content_mod:definitive_sword",
+    "definitive_content_mod:walker_sword",
+    "definitive_content_mod:verdigris_sword",
+    "definitive_content_mod:fundous_sword",
+    "minecraft:wooden_sword",
+    "minecraft:stone_sword",
+    "minecraft:golden_sword",
+    "minecraft:iron_sword",
+    "minecraft:diamond_sword",
+    "minecraft:netherite_sword"
+  ]
+}

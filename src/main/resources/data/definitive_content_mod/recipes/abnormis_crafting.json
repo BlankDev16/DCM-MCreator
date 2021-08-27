@@ -1,0 +1,42 @@
+{
+  "group": "definitive_content_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "definitive_content_mod:subnormali_block"
+    },
+    "1": {
+      "item": "minecraft:netherite_block"
+    },
+    "2": {
+      "item": "definitive_content_mod:subnormali_block"
+    },
+    "3": {
+      "item": "minecraft:dragon_breath"
+    },
+    "4": {
+      "tag": "forge:heads"
+    },
+    "5": {
+      "item": "minecraft:netherite_block"
+    },
+    "6": {
+      "item": "definitive_content_mod:subnormali_block"
+    },
+    "7": {
+      "item": "minecraft:dragon_breath"
+    },
+    "8": {
+      "item": "definitive_content_mod:subnormali_block"
+    }
+  },
+  "result": {
+    "item": "definitive_content_mod:abnormis_ingot",
+    "count": 10
+  }
+}

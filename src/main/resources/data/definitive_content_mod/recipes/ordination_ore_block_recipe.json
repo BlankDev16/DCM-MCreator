@@ -1,0 +1,42 @@
+{
+  "group": "definitive_content_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "definitive_content_mod:ordination"
+    },
+    "1": {
+      "item": "definitive_content_mod:ordination"
+    },
+    "2": {
+      "item": "definitive_content_mod:ordination"
+    },
+    "3": {
+      "item": "definitive_content_mod:ordination"
+    },
+    "4": {
+      "item": "definitive_content_mod:ordination"
+    },
+    "5": {
+      "item": "definitive_content_mod:ordination"
+    },
+    "6": {
+      "item": "definitive_content_mod:ordination"
+    },
+    "7": {
+      "item": "definitive_content_mod:ordination"
+    },
+    "8": {
+      "item": "definitive_content_mod:ordination"
+    }
+  },
+  "result": {
+    "item": "definitive_content_mod:ordination_block",
+    "count": 1
+  }
+}

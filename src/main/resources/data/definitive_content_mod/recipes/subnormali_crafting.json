@@ -1,0 +1,42 @@
+{
+  "group": "definitive_content_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "definitive_content_mod:superatum_block"
+    },
+    "1": {
+      "item": "minecraft:obsidian"
+    },
+    "2": {
+      "item": "definitive_content_mod:superatum_block"
+    },
+    "3": {
+      "item": "minecraft:obsidian"
+    },
+    "4": {
+      "item": "minecraft:beacon"
+    },
+    "5": {
+      "item": "minecraft:coal_block"
+    },
+    "6": {
+      "item": "definitive_content_mod:superatum_block"
+    },
+    "7": {
+      "item": "minecraft:coal_block"
+    },
+    "8": {
+      "item": "definitive_content_mod:superatum_block"
+    }
+  },
+  "result": {
+    "item": "definitive_content_mod:subnormali_ingot",
+    "count": 5
+  }
+}

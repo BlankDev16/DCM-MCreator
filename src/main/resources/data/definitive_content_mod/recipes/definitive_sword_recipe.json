@@ -1,0 +1,36 @@
+{
+  "group": "definitive_content_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 12",
+    "345",
+    "67 "
+  ],
+  "key": {
+    "1": {
+      "item": "definitive_content_mod:ultra_compressed_flint"
+    },
+    "2": {
+      "item": "definitive_content_mod:definitive_diamond"
+    },
+    "3": {
+      "item": "definitive_content_mod:pretiosa"
+    },
+    "4": {
+      "item": "definitive_content_mod:definitive_diamond"
+    },
+    "5": {
+      "item": "definitive_content_mod:ultra_compressed_flint"
+    },
+    "6": {
+      "item": "definitive_content_mod:definitive_stick"
+    },
+    "7": {
+      "item": "definitive_content_mod:pretiosa"
+    }
+  },
+  "result": {
+    "item": "definitive_content_mod:definitive_sword",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "group": "definitive_content_mod",
+  "type": "minecraft:smelting",
+  "experience": 1.47,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "definitive_content_mod:barite_ore"
+  },
+  "result": {
+    "item": "definitive_content_mod:barite"
+  }
+}

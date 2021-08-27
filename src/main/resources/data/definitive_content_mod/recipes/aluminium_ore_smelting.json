@@ -1,0 +1,12 @@
+{
+  "group": "definitive_content_mod",
+  "type": "minecraft:smelting",
+  "experience": 3.7799999999999994,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "definitive_content_mod:aluminium_ore"
+  },
+  "result": {
+    "item": "definitive_content_mod:aluminium_ingot"
+  }
+}

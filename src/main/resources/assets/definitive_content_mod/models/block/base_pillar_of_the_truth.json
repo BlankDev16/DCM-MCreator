@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "definitive_content_mod:blocks/smelter_top",
+    "up": "definitive_content_mod:blocks/smelter_top",
+    "north": "definitive_content_mod:blocks/smelter_side_2",
+    "east": "definitive_content_mod:blocks/smelter_side_2",
+    "south": "definitive_content_mod:blocks/smelter_side_2",
+    "west": "definitive_content_mod:blocks/smelter_side_2",
+    "particle": "definitive_content_mod:blocks/smelter_top"
+  }
+}

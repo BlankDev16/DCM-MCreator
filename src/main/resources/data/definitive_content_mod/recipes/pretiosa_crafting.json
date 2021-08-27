@@ -1,0 +1,42 @@
+{
+  "group": "definitive_content_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "definitive_content_mod:rerum_block"
+    },
+    "1": {
+      "item": "definitive_content_mod:double_compressed_flint"
+    },
+    "2": {
+      "item": "definitive_content_mod:rerum_block"
+    },
+    "3": {
+      "item": "minecraft:heart_of_the_sea"
+    },
+    "4": {
+      "item": "minecraft:netherite_chestplate"
+    },
+    "5": {
+      "item": "minecraft:heart_of_the_sea"
+    },
+    "6": {
+      "item": "definitive_content_mod:rerum_block"
+    },
+    "7": {
+      "item": "definitive_content_mod:double_compressed_flint"
+    },
+    "8": {
+      "item": "definitive_content_mod:rerum_block"
+    }
+  },
+  "result": {
+    "item": "definitive_content_mod:pretiosa",
+    "count": 5
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "disc_inhuman_heart",
+    "name": "Repetitive Music",
+    "description": "???",
+    "creativeTab": {
+      "value": "CUSTOM:FantasysTab"
+    },
+    "music": {
+      "value": "CUSTOM:music_disc_repetitive"
+    },
+    "specialInfo": [],
+    "hasGlow": true
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "definitive_content_mod:block/blood_god_dimension_portal_ew"
+    },
+    "axis=x": {
+      "model": "definitive_content_mod:block/blood_god_dimension_portal_ns"
+    }
+  }
+}

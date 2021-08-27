@@ -1,0 +1,13 @@
+{
+  "group": "definitive_content_mod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "definitive_content_mod:chalcopyrite_block"
+    }
+  ],
+  "result": {
+    "item": "definitive_content_mod:chalcopyrite_dust",
+    "count": 9
+  }
+}

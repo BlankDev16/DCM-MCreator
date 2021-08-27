@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 10,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:MaximumIngot"
+      },
+      {
+        "value": "Blocks.IRON_BLOCK"
+      },
+      {
+        "value": "CUSTOM:MaximumIngot"
+      },
+      {
+        "value": "CUSTOM:ProvectusBlock"
+      },
+      {
+        "value": "Items.TOTEM_OF_UNDYING"
+      },
+      {
+        "value": "CUSTOM:ProvectusBlock"
+      },
+      {
+        "value": "CUSTOM:MaximumBlock"
+      },
+      {
+        "value": "Blocks.IRON_BLOCK"
+      },
+      {
+        "value": "CUSTOM:MaximumBlock"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:SuperatumIngot"
+    },
+    "name": "superatum_crafting",
+    "namespace": "mod"
+  }
+}

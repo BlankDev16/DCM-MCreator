@@ -1,0 +1,62 @@
+{
+  "_fv": 24,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "bloody_head",
+    "enableBody": true,
+    "textureBody": "bloody_body",
+    "enableLeggings": true,
+    "textureLeggings": "bloody_leggings",
+    "enableBoots": true,
+    "textureBoots": "bloody_boots",
+    "creativeTab": {
+      "value": "CUSTOM:DCMArmor"
+    },
+    "armorTextureFile": "bloody",
+    "helmetName": "Bloody Helmet",
+    "bodyName": "Bloody Chestplate",
+    "leggingsName": "Bloody Leggings",
+    "bootsName": "Bloody Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "helmetImmuneToFire": false,
+    "bodyImmuneToFire": false,
+    "leggingsImmuneToFire": false,
+    "bootsImmuneToFire": false,
+    "maxDamage": 68,
+    "damageValueHelmet": 9,
+    "damageValueBody": 23,
+    "damageValueLeggings": 27,
+    "damageValueBoots": 9,
+    "enchantability": 41,
+    "toughness": 1.5,
+    "knockbackResistance": 0.1,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:BloodyDust"
+      }
+    ]
+  }
+}

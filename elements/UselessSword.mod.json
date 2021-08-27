@@ -1,0 +1,37 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "useless_sword",
+    "customModelName": "Normal",
+    "name": "Useless Sword",
+    "specialInfo": [
+      "It's a bad",
+      "Sword"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:FantasysTab"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 60,
+    "efficiency": 4.0,
+    "attackSpeed": 2.2,
+    "enchantability": 63,
+    "damageVsEntity": 1.0,
+    "usageCount": 100033,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:UnanimousTogetherDisc"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": true,
+    "damageOnCrafting": true,
+    "onEntityHitWith": {
+      "name": "DamageUseless"
+    }
+  }
+}

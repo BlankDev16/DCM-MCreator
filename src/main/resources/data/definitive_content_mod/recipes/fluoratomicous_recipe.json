@@ -1,0 +1,42 @@
+{
+  "group": "definitive_content_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "definitive_content_mod:floratomic_block"
+    },
+    "1": {
+      "item": "definitive_content_mod:starbased_block"
+    },
+    "2": {
+      "item": "definitive_content_mod:adamantium_block"
+    },
+    "3": {
+      "item": "definitive_content_mod:avanzatum_block"
+    },
+    "4": {
+      "item": "definitive_content_mod:unanimous_together_disc"
+    },
+    "5": {
+      "item": "definitive_content_mod:descentium_block"
+    },
+    "6": {
+      "item": "definitive_content_mod:maestrarium_block"
+    },
+    "7": {
+      "item": "definitive_content_mod:ascentium_block"
+    },
+    "8": {
+      "item": "definitive_content_mod:crescendo_block"
+    }
+  },
+  "result": {
+    "item": "definitive_content_mod:fluoratomicous_dust",
+    "count": 3
+  }
+}

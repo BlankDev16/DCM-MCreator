@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:DoubleCompressedFlint"
+      },
+      {
+        "value": "CUSTOM:NetherDisc"
+      },
+      {
+        "value": "CUSTOM:DoubleCompressedFlint"
+      },
+      {
+        "value": "CUSTOM:RepetitiveMusic"
+      },
+      {
+        "value": "CUSTOM:Walker"
+      },
+      {
+        "value": "CUSTOM:ThisIsJustAFallout"
+      },
+      {
+        "value": "CUSTOM:DoubleCompressedFlint"
+      },
+      {
+        "value": "CUSTOM:UnanimousTogetherDisc"
+      },
+      {
+        "value": "CUSTOM:DoubleCompressedFlint"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:TravellersUniverse"
+    },
+    "name": "travel_craft",
+    "namespace": "mod"
+  }
+}

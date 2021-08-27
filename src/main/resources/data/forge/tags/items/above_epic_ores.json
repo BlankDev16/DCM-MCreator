@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "definitive_content_mod:superatum_ingot",
+    "definitive_content_mod:subnormali_ingot",
+    "definitive_content_mod:abnormis_ingot",
+    "definitive_content_mod:rerum",
+    "definitive_content_mod:pretiosa",
+    "definitive_content_mod:compressed_flint",
+    "definitive_content_mod:double_compressed_flint",
+    "definitive_content_mod:super_compressed_flint",
+    "definitive_content_mod:ultra_compressed_flint",
+    "definitive_content_mod:definitive_diamond"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "_fv": 24,
+  "_type": "dimension",
+  "definition": {
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:FundationBiome"
+      },
+      {
+        "value": "CUSTOM:TravellersBiome"
+      }
+    ],
+    "worldGenType": "Normal world gen",
+    "mainFillerBlock": {
+      "value": "CUSTOM:WalkerBlock"
+    },
+    "fluidBlock": {
+      "value": "Blocks.FLOWING_LAVA"
+    },
+    "airColor": {
+      "value": -16777216,
+      "falpha": 0.0
+    },
+    "canRespawnHere": true,
+    "hasFog": true,
+    "isDark": true,
+    "doesWaterVaporize": true,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": false,
+    "imitateOverworldBehaviour": false,
+    "portalFrame": {
+      "value": "CUSTOM:WalkerBlock"
+    },
+    "portalParticles": {
+      "value": "LAVA"
+    },
+    "portalLuminance": 15,
+    "portalSound": {
+      "value": "ambient.soul_sand_valley.additions"
+    },
+    "igniterName": "Travellers Igniter",
+    "igniterTab": {
+      "value": "CUSTOM:FantasysTab"
+    },
+    "texture": "curio_1",
+    "portalTexture": "trvl_prtl_blck",
+    "enablePortal": false,
+    "whenPortaTriggerlUsed": {
+      "name": "TravellersUniversePortalTriggerUsed"
+    }
+  }
+}
